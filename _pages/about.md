@@ -13,6 +13,9 @@ About
 I am James Hammond, a DPhil student at the University of Oxford. I am interested in evolutionary developmental biology (evo-devo), and particularly in using mathematics and modelling to characterise developmental systems and explain the evolution of form and diversity. For my DPhil work I am studying the evolvability of vertebrate segmentation, under the supervision of Dr Berta Verd and Prof Ruth Baker. This involves a combination of computational modelling using Julia, and experimental work characterising the segmentation clocks of two non-model species of fish, *Astatotilapia calliptera* and *Rhamphochromis* sp. 'chilingali'.
 
 Outside of my studies, I am very interested in Lepidoptera (particularly micro-moths), and so might devote some space on this website to moth-related content in the future.
+
+You can contact me at james.hammond[at]biology.ox.ac.uk.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
