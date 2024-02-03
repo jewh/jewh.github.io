@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc (Hons) Biology and Mathematics, University of St Andrews, 2020
-* DPhil Zoology, University of Oxford, 2024 (expected)
+* BSc (Hons) Biology and Mathematics, University of St Andrews, 2016-2020
+* DPhil Zoology, University of Oxford, 2020-2024
 
 Publications
 ======

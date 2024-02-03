@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm James Hammond, a DPhil student at the University of Oxford.
+About
+=======
+I am James Hammond, a DPhil student at the University of Oxford. I am interested in evolutionary developmental biology (evo-devo), and particularly in using mathematics and modelling to characterise developmental systems and explain the evolution of form and diversity. For my DPhil work I am studying the evolvability of vertebrate segmentation, under the supervision of Dr Berta Verd and Prof Ruth Baker. This involves a combination of computational modelling using Julia, and experimental work characterising the segmentation clocks of two non-model species of fish, *Astatotilapia calliptera* and *Rhamphochromis* sp. 'chilingali'.
+
 
 <!-- A data-driven personal website
 ======
