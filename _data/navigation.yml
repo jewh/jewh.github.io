@@ -3,7 +3,7 @@ main:
 
   - title: "CV"
     url: /cv/
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -16,7 +16,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
 
