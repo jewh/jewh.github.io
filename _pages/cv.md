@@ -20,7 +20,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awards & Funding
+<!-- Awards & Funding
 ======
+*  -->
 
 
