@@ -1,6 +1,6 @@
 ---
 title: 'Coming soon'
-date: 20240-08-13
+date: 2024-08-13
 permalink: /posts/coming-soon
 tags:
   - cool posts
