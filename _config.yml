@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "jewh.github.io"
 title_separator          : "-"
 name                     : &name "James Hammond"
-description              : &description "personal description"
+description              : &description "Personal website of James Hammond."
 url                      : https://jewh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jewh/jewh.github.io"
@@ -178,18 +178,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: false
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: false
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: false
+  #   permalink: /:collection/:path/
 
 
 # Defaults
