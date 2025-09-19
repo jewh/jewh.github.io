@@ -16,13 +16,16 @@ Interests
 
 Evolutionary developmental biology, Systems Biology, Mathematical biology
 
-All organisms 
+Life is fundamentally robust. Biological processes across all scales of life are capable of preserving their function in the face of noise, whether it be due to mutation, environmental fluctuations, or the stochasticity of molecular biology. The development of the embryo is no exception.
 
 Biography
 ----
 
+Oct 2025 - Present   Postdoctoral research associate, Clark Lab, Department of Genetics, University of Cambridge.
 
-I am currently a DPhil student at the University of Oxford. I am interested in evolutionary developmental biology (evo-devo), and particularly in using mathematics and modelling to characterise developmental systems and explain the evolution of form and diversity. For my DPhil work I am studying the evolvability of vertebrate segmentation, under the supervision of Dr Berta Verd and Prof Ruth Baker. This involves a combination of computational modelling using Julia, and experimental work characterising the segmentation clocks of two non-model species of fish, *Astatotilapia calliptera* and *Rhamphochromis* sp. 'chilingali'.
+Oct 2020 - Jun 2025 DPhil, Merton College, University of Oxford
+
+Sept 2016 - Jun 2020 BSc (Hons) Biology and Mathematics, University of St Andrews
 
 Lepidoptera
 ----
