@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "James Hammond"
-  avatar           : "yellowstone_headshot.png"
-  bio              : "DPhil student at University of Oxford. Interested in evo-devo and mathematics."
-  location         : "Oxford, UK"
+  avatar           : "oman_headshot.jpg"
+  bio              : "Postdoc at the University of Cambridge"
+  location         : "Cambridge, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jewh"
+  github           : "jewh2"
   google_plus      :
   keybase          :
   instagram        :

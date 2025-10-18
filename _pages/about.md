@@ -11,10 +11,8 @@ redirect_from:
 About
 =======
 
-Interests
+Research
 ----
-
-Evolutionary developmental biology, Systems Biology, Mathematical biology
 
 Life is fundamentally robust. Biological processes across all scales of life are capable of preserving their function in the face of noise, whether it be due to mutation, environmental fluctuations, or the stochasticity of molecular biology. The development of the embryo is no exception.
 
@@ -34,7 +32,7 @@ Outside of my studies, I am very interested in Lepidoptera (particularly micro-m
 
 Contact
 ----
-You can contact me via email at james.hammond[at]biology.ox.ac.uk.
+You can contact me via email at jh2046[at]cam.ac.uk.
 
 <!-- A data-driven personal website
 ======
