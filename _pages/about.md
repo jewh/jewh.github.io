@@ -8,31 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-About
-=======
+Hello and welcome to my website. I am a developmental biologist currently working at the University of Cambridge. Here you will be able to find information about my research and my personal interests.
 
-Research
-----
-
-Life is fundamentally robust. Biological processes across all scales of life are capable of preserving their function in the face of noise, whether it be due to mutation, environmental fluctuations, or the stochasticity of molecular biology. The development of the embryo is no exception.
-
-Biography
-----
-
-Oct 2025 - Present   Postdoctoral research associate, Clark Lab, Department of Genetics, University of Cambridge.
-
-Oct 2020 - Jun 2025 DPhil, Merton College, University of Oxford
-
-Sept 2016 - Jun 2020 BSc (Hons) Biology and Mathematics, University of St Andrews
-
-Lepidoptera
-----
-
-Outside of my studies, I am very interested in Lepidoptera (particularly micro-moths), and so might devote some space on this website to moth-related content in the future.
-
-Contact
-----
-You can contact me via email at jh2046[at]cam.ac.uk.
+You can contact me about anything via email at jh2046[at]cam.ac.uk.
 
 <!-- A data-driven personal website
 ======
