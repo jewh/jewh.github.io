@@ -72,9 +72,7 @@ The scramble up was tough but by about 1400 we had reached the top of the col an
 
 Now began our descent into Al Ghubrah to Hadash. This is where I first realised that John is the real deal. In his book he describes the route as having 'some exposure'. I would describe this route as 'very exposed'. The route to Hadash is spectacular and takes you about 2 km along a cliff face, using a series of ledges and gullies. The path is well-marked and well-worn but for much of it there is nothing but air to your side, and a 30+ m drop in places onto the rocks below.
 
-Sadly we had run out of water by the time we reached the col and we didn't have time to savour this spectacular route or the views, with only three hours left before sunset. Thirsty we pressed on, and came off the cliff onto the slopes above Hadash - looking delciously green - just as the sun dipped behind the mountains. Headtorches on, we traipsed for about 40 mins through more open _Olea_ woodland down to Hadash.
-
-At Hadash there is a car park for tourists and above it, a flat area of gravel perfect for camping. We hastily dumped our packs and filled up from the village's Aflaj, bookending a very adventurous start to the trip. 
+Sadly we had run out of water by the time we reached the col and we didn't have time to savour this spectacular route or the views, with only three hours left before sunset. Thirsty we pressed on, and came off the cliff onto the slopes above Hadash - looking delciously green - just as the sun dipped behind the mountains. Headtorches on, we traipsed for about 40 mins through more open _Olea_ woodland down to Hadash. At Hadash there is a car park for tourists and above it, a flat area of gravel perfect for camping. We hastily dumped our packs there and filled up from the village's Aflaj, bookending a very adventurous start to the trip. 
 
 I have to say this is one of the most fun routes I've ever done, and would love to do it again, but not with a large trekking rucksack full of nine days of food! In particular the large pack makes some of the moves on the descent difficult where the path does under an overhang and the pack forces you out towards the precipice.
 
@@ -88,4 +86,17 @@ We were woken at dawn by the call to prayer from the Hadash mosque. Still shaded
 ![View from Hadash at dawn.](https://jewh.github.io/images/2025oman/P2080017.JPG)
 *View looking across Al Ghubrah bowl at dawn, hidden by clouds.*
 
-The view was pretty spectacular with our camp at 1500m sitting above the blanket of cloud covering the Al Ghubrah bowl. 
+The view at breakfast was pretty spectacular with our camp at 1500m sitting above the blanket of cloud covering the Al Ghubrah bowl. However once the sun showed his face over the ridge this quickly burned off and we knew we had to get underway. 
+
+After our ordeal the previous day we opted for a low route, walking the main vehicle road connecting Hadash to the village of Wukan, the next campsite on John's route. The road proved not too birdy but some close views of **Hume's wheatear** as we were leaving Hadash were much appreciated. After hitching a ride on the back of a beat-up Toyota Hilux and a bit of thirsty walking in the heat, we arrived at Wukan by the mid-afternoon.
+
+Here I made the painful decision to temporarily part ways with Frederic and Lukas, who I was again lagging behind and would only slow down. We agreed to rendezvous at the village of Misfah al Abriyyn in five days' time, the next point on the route which would be easily accessible by taxi.
+
+Over that afternoon and the following day I explored Wukan, a scenic agrarian village which held my first **Purple sunbirds _Cinnyris asiaticus_** and **Delicate prinias _Prinia lepida_**. There was also a large roaming flock of **Chiffchaffs _Phylloscopus collybita_** which I searched several times for a Plain leaf warbler _Phylloscopus neglectus_, but sadly they proved to all be _collybita_. Like Hadash the village is surrounded by steep cliffs which, covered in gnarled _Olea_, seemed like a perfect place to harbour Omani owl. Taking advantage of my long stay in the area I spent both nights listening for the owl at the top of the village beneath the cliffs, but heard nothing and left empty-handed.
+
+![View from Wukan towards Hadash at dusk.](https://jewh.github.io/images/2025oman/P2080017.JPG)
+*Listening for Omani owls at Wukan, looking east towards Hadash, and the scramble on day 2.*
+
+The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfat. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfat somehow. Luckily I managed to hitch a lift with a kind young Finnish couple back to Muscat, who dropped me near my guesthouse at Al Qurum beach.
+
+The location of my accomodation was chosen strategically, as Al Qurum and the adjoining mangrove estuary (Wadi Adai nature reserve) are superb for shorebirds and gulls.   
