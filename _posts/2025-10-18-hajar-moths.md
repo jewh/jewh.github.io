@@ -94,7 +94,7 @@ Here I made the painful decision to temporarily part ways with Frederic and Luka
 
 Over that afternoon and the following day I explored Wukan, a scenic agrarian village which held my first **Purple sunbirds _Cinnyris asiaticus_** and **Delicate prinias _Prinia lepida_**. There was also a large roaming flock of **Chiffchaffs _Phylloscopus collybita_** which I searched several times for a Plain leaf warbler _Phylloscopus neglectus_, but sadly they proved to all be _collybita_. Like Hadash the village is surrounded by steep cliffs which, covered in gnarled _Olea_, seemed like a perfect place to harbour Omani owl. Taking advantage of my long stay in the area I spent both nights listening for the owl at the top of the village beneath the cliffs, but heard nothing and left empty-handed.
 
-![View from Wukan towards Hadash at dusk.](https://jewh.github.io/images/2025oman/P2080017.JPG)
+![View from Wukan towards Hadash at dusk.](https://jewh.github.io/images/2025oman/P2090033.JPG)
 *Listening for Omani owls at Wukan, looking east towards Hadash, and the scramble on day 2.*
 
 The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfat. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfat somehow. Luckily I managed to hitch a lift with a kind young Finnish couple back to Muscat, who dropped me near my guesthouse at Al Qurum beach.
