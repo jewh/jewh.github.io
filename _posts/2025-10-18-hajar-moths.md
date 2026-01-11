@@ -52,7 +52,7 @@ The track from the wadi up the mountain was challenging but very beautiful. Bird
 
 However my poor state of fitness, the 28°C heat, weight of my pack, and total lack of sleep on the plane the night, before began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
 
-Despite our poor position this was a very beautiful camp, and once the sun set we were bathed in bright moonlight. I amazed by how bright the moon is in Arabia. While wearing a headtorch was still prudent to avoid falls, in moonlight it was largely unnecessary. Once darkness fell a **Pallid Scops owl _Otus brucei_** started its 'hoo!-hoo!-hoo!-' call from somewhere down in the wadi. 
+Despite our poor position this was a very beautiful camp, and once the sun set we were bathed in bright moonlight. I am amazed by how bright the moon is in Arabia. While wearing a headtorch was still prudent to avoid falls, in moonlight it was largely unnecessary. Once darkness fell a **Pallid Scops owl _Otus brucei_** started its 'hoo!-hoo!-hoo!-' call from somewhere down in the wadi. 
 
 The next day was a truly beautiful dawn and we were awoken by the raucous calls of **Grey francolin _Ortygornis pondicerianus_** and the more pleasant song of the **Sand partridge _Ammoperdix heyi_** - the latter a real boost to morale as it was a species I had wanted to see.
 
@@ -83,4 +83,9 @@ We went back to camp and ate in the dark, then hastily made our beds and went to
 Days 3-8 - Hadash to Misfah al Abriyyn, via Wukan, Muscat, and Nizwa.
 ---
 
+We were woken at dawn by the call to prayer from the Hadash mosque. Still shaded by the large cliffs to our east, the morning was pleasantly cool. The birds of Hadash were making the most of the cool air and all around us we could hear the songs of **Grey francolin** and **Sand partridge**. At breakfast I also managed to spot a **Scrub warbler _Scotocerca inquieta_** skulking around at the base of a bush.
 
+![View from Hadash at dawn.](https://jewh.github.io/images/2025oman/P2080017.JPG)
+*View looking across Al Ghubrah bowl at dawn, hidden by clouds.*
+
+The view was pretty spectacular with our camp at 1500m sitting above the blanket of cloud covering the Al Ghubrah bowl. 
