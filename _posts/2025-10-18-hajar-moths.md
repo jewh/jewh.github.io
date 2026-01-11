@@ -19,7 +19,7 @@ The Hajar Mountains
 
 The Hajar mountains are a 700 km long range of mountains and hills in the north of Oman and the UAE. The highest part of this range is in Oman around the Jebel Akhdar massif, where it reaches its highest point, 3009 m, at Jebel Shams. 
 
-![View looking east over the Hajar mountains from Jebel Shams at dawn.](https://jewh2.github.io/images/2025oman/1000027521.jpg)
+![View looking east over the Hajar mountains from Jebel Shams at dawn.](https://jewh.github.io/images/2025oman/1000027521.jpg)
 *View of the Hajar mountains at dawn, looking east from our camp on the flanks of Jebel Shams at approx 2600 m.*
 
 Due to their altitude and proximity to the coast the Jebel Akhdar mountains are much more verdant than the rest of northern Oman (Jebel Akhdar meaning literally 'green mountain'), and in some places support a unique open woodland habitat dominated by _Dodonaea_, _Olea_, and the beautiful Pashtun Juniper _Juniperus seravschanica_.
@@ -31,7 +31,7 @@ The Route
 
 The route for a 200 km traverse of the Jebel Akhdar range was first published in 2019 by John Edwards (hereafter referred to as John), using ancient man- and donkey-tracks for passage of man and beast between the mountain villages. Despite the mountains being very arid, such a traverse is made possible by a network of water sources along the route. Many of these sources are Aflaj - remarkable networks of water channels draining from mountain acquifers, channelling water into shaded storage pools and into fields. Others are more primal, and may simply be a large bucket positioned underneath a cave drip, storing water for thirsty travellers.
 
-![Aflaj - an irrigation/drinking water channel.](https://jewh2.github.io/images/2025oman/1000027364.jpg)
+![Aflaj - an irrigation/drinking water channel.](https://jewh.github.io/images/2025oman/1000027364.jpg)
 *The Aflaj in Misfah al Abriyyn. Not shown are the shoals of Killifish that made this tiny channel their home.*
 
 The traverse takes about two weeks and John recommends undertaking the walk in February, to maximise daylight hours while minimising rainfall and excessive heat. Not wanting to contradict John's sage advice, a trip was arranged for February 2025 between Frederic, myself, and Frederic's friend Lukas.
@@ -41,7 +41,7 @@ Days 1 & 2 - Muscat to Hadash via Al Afyah
 
 It was mid-morning on the 6th of February when we assembled together in Muscat airport. Happy to see Frederic again and pleased to meet Lukas, we immediately sought a taxi to take us to our [starting point](https://maps.app.goo.gl/y9WadharLbsoZqzB7), in the village of Al Afyah, just west off the Muscat-Nizwa highway. Having struggled a bit with directions (my Google Maps app, at least, defaults to rendering arabic names in the saudi dialect, and so was unintelligible to our omani cabbie), we arrived at the start point at approx 1300 and begun filling our water bottles in the aflaj (irrigation system running from a mountain acquifer).
 
-![The starting point of our Hajar adventure, the wadi entrance at Al Afyah.](https://jewh2.github.io/images/2025oman/P2060003.JPG)
+![The starting point of our Hajar adventure, the wadi entrance at Al Afyah.](https://jewh.github.io/images/2025oman/P2060003.JPG)
 *The starting point of our Hajar adventure, the wadi entrance at Al Afyah (approx 700 m).*
 
 Starting so late in the day we planned to break the first leg of our journey over two days, camping somewhere up near the top of our 1400 m ascent to the ridge where we then descend 600 m to the village of Hadash in the spectacular Al Ghubrah bowl. Notably there is no water source along this path, so we had to be prepared for two days without resupply.
@@ -50,7 +50,7 @@ Here is where I made a dangerous mistake that affected everyone for the next thr
 
 The track from the wadi up the mountain was challenging but very beautiful. Birdlife included **Pale Crag Martin _Ptyonoprogne obsoleta_**, **Desert Lark _Ammomanes deserti_**, and **Arabian Green Bee-eater _Merops cyanophrys_**, as well as a **Long-billed Pipit _Anthus similis_**, which I was very pleased to see.
 
-However the 28°C heat, weight of my pack, a total lack of sleep on the plane the night before, and generally poor fitness began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
+However my poor state of fitness, the 28°C heat, weight of my pack, and total lack of sleep on the plane the night, before began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
 
 Despite our poor position this was a very beautiful camp, and once the sun set we were bathed in bright moonlight. I amazed by how bright the moon is in Arabia. While wearing a headtorch was still prudent to avoid falls, in moonlight it was largely unnecessary. Once darkness fell a **Pallid Scops owl _Otus brucei_** started its 'hoo!-hoo!-hoo!-' call from somewhere down in the wadi. 
 
@@ -62,24 +62,25 @@ Frederic and Lukas recognised the seriousness of the situation too, and to preve
 
 However a brief boost to morale was afforded by us reaching a shaded plateau at the base of this scamble, with long flowing chest-height grass. The habitat was amazing and can best be described as some sort of _Olea_ woodland-savannah. This would have made for a perfect camp site - as evidenced by a recently used firepit and small shelters constructed by overnighting goatherds. Alas we had to leave this little eden and carry on over the mountain to Hadash.
 
-![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh2.github.io/images/2025oman/P2070011.JPG)
+![View from near the top of our scramble, looking down to the savannah plateau.](https://jewh.github.io/images/2025oman/P2070011.JPG)
 *View looking east from approximately halfway up the final scramble (approx 2000 m). The small savannah plateau can be seen below.*
 
 The scramble up was tough but by about 1400 we had reached the top of the col and were now looking into the immense Al Ghubrah bowl, one of the best views I'd seen in a long time. On the scramble up, we were joined by **Black redstarts _Phoenicurus ochruros_**, handsome **Hume's wheatears _Oenanthe albonigra_**, and at the very top of the scramble, rewarded by a close and slow fly-by of a **Bonnelli's eagle _Aquila fasciata_** cruising along the ridgeline.
 
-![View looking NW into Al Ghubrah bowl.](https://jewh2.github.io/images/2025oman/P2070016.JPG)
+![View looking NW into Al Ghubrah bowl.](https://jewh.github.io/images/2025oman/P2070016.JPG)
 *View looking north west from the top of the ridge into Al Ghubrah bowl. Omani owl country.*
 
 Now began our descent into Al Ghubrah to Hadash. This is where I first realised that John is the real deal. In his book he describes the route as having 'some exposure'. I would describe this route as 'very exposed'. The route to Hadash is spectacular and takes you about 2 km along a cliff face, using a series of ledges and gullies. The path is well-marked and well-worn but for much of it there is nothing but air to your side, and a 30+ m drop in places onto the rocks below.
 
 Sadly we had run out of water by the time we reached the col and we didn't have time to savour this spectacular route or the views, with only three hours left before sunset. Thirsty we pressed on, and came off the cliff onto the slopes above Hadash - looking delciously green - just as the sun dipped behind the mountains. Headtorches on, we traipsed for about 40 mins through more open _Olea_ woodland down to Hadash.
 
-At Hadash there is a car park for tourists and above it, a flat area of gravel perfect for camping. We hastily dumped our packs and we floated down, empty vessels in hand, to the village's Aflaj. Dear reader I hope you never experience the joy we felt to hear running water. Exclaiming 'Alhamdulillah!' we sat down next to the Aflaj and began filtering, treating, and after what felt like a lifetime, eventually drinking water.
+At Hadash there is a car park for tourists and above it, a flat area of gravel perfect for camping. We hastily dumped our packs and filled up from the village's Aflaj, bookending a very adventurous start to the trip. 
 
 I have to say this is one of the most fun routes I've ever done, and would love to do it again, but not with a large trekking rucksack full of nine days of food! In particular the large pack makes some of the moves on the descent difficult where the path does under an overhang and the pack forces you out towards the precipice.
 
 We went back to camp and ate in the dark, then hastily made our beds and went to sleep. The cliffs around Hadash look perfect Omani owl habitat, but sadly I was too tired to conduct any kind of survey. I slipped quickly into sleep.
 
-Day 3 coming soon...
+Days 3-8 - Hadash to Misfah al Abriyyn, via Wukan, Muscat, and Nizwa.
 ---
+
 
