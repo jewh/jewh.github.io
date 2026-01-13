@@ -1,5 +1,5 @@
 ---
-title: "Moths and birds in Oman's Hajar Mountains"
+title: "In pursuit of moths and owls in Oman's Hajar Mountains"
 date: 2025-10-18
 permalink: /posts/
 tags:
@@ -97,6 +97,12 @@ Over that afternoon and the following day I explored Wukan, a scenic agrarian vi
 ![View from Wukan towards Hadash at dusk.](https://jewh.github.io/images/2025oman/P2090033.JPG)
 *Listening for Omani owls at Wukan, looking east towards Hadash, and the scramble on day 2 (the far ridge).*
 
-The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfat. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfat somehow. Luckily I managed to hitch a lift with a kind young Finnish couple back to Muscat, who dropped me near my guesthouse at Al Qurum beach.
+The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfat. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfat somehow. Luckily I managed to hitch a lift with a kind young Finnish couple from Wukan back to Muscat. After an evening's birding the mangrove estuary near Al Qurum beach, and a couple of hours in a taxi, I arrived in Nizwa.
 
-The location of my accomodation was chosen strategically, as Al Qurum and the adjoining mangrove estuary (Wadi Adai nature reserve) are superb for shorebirds and gulls.   
+From Nizwa my plan was clear: hire a car and look for Omani owl. One of the two car-accessible wadis visited by birders in pursuit of Omani owl is near Nizwa. I won't reveal the specific wadi, but it's easy enough to find if you know where to look. After arranging a 24 hr rental with one of the Nizwa hire car companies, I was off in pursuit of owls.
+
+![View of the car camping in wadi near Nizwa.](https://jewh.github.io/images/2025oman/IMG_20250211_175115.jpg)
+*Car camping in the Omani owl wadi.*
+
+The plan was merely to camp out in the wadi, explore a bit in the dark, and listen for the birds. From what I could tell the owls should be active at dusk and dawn (https://books.soundapproach.co.uk/species/omani-owl/), so no need to lose too much sleep looking for them. I parked up next to the most-visited spot for the owls, and waited. As dusk fell I was optimistic, with a **Pallid scops owl** opening up song right next to camp as soon as the sun sank behind the ridge. However around 30 mins later strong winds blew up out of the desert, deafening me and likely causing any owls to hunker down in shelter. The wind went on til around 2200, 
+
