@@ -157,3 +157,13 @@ List of moths identified from the Hajar Mountains, Feb 2025
 ---
 
 (_to follow_)
+
+Unidentified moths from the Hajar Mountains, Feb 2025
+---
+
+If you want to help out identifying these, please contribute to the observations on [iNaturalist](https://www.inaturalist.org/observations?nelat=23.581109871262615&nelng=58.06990971067823&swlat=22.838975436873227&swlng=56.88887943724073&user_id=hammondjames26&verifiable=any).
+
+(_to follow_)
+
+
+
