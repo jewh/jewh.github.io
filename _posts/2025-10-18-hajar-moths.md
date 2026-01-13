@@ -50,7 +50,7 @@ Here is where I made a dangerous mistake that affected everyone for the next thr
 
 The track from the wadi up the mountain was challenging but very beautiful. Birdlife included **Pale Crag Martin _Ptyonoprogne obsoleta_**, **Desert Lark _Ammomanes deserti_**, and **Arabian Green Bee-eater _Merops cyanophrys_**, as well as a **Long-billed Pipit _Anthus similis_**, which I was very pleased to see.
 
-However my poor state of fitness, the 28°C heat, weight of my pack, and total lack of sleep on the plane the night, before began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
+However my poor state of fitness, the 30°C heat, weight of my pack, and total lack of sleep on the plane the night before began to compound into fatigue, and after a couple of hours I was badly lagging behind the fit and nimble Frederic and Lukas. As night began to fall we were far short of where we wanted to be and had to camp amongst a steep boulder field.
 
 Despite our poor position this was a very beautiful camp, and once the sun set we were bathed in bright moonlight. I am amazed by how bright the moon is in Arabia. While wearing a headtorch was still prudent to avoid falls, in moonlight it was largely unnecessary. Once darkness fell a **Pallid Scops owl _Otus brucei_** started its 'hoo!-hoo!-hoo!-' call from somewhere down in the wadi. 
 
@@ -95,7 +95,7 @@ Here I made the painful decision to temporarily part ways with Frederic and Luka
 Over that afternoon and the following day I explored Wukan, a scenic agrarian village which held my first **Purple sunbirds _Cinnyris asiaticus_** and **Delicate prinias _Prinia lepida_**. There was also a large roaming flock of **Chiffchaffs _Phylloscopus collybita_** which I searched several times for a Plain leaf warbler _Phylloscopus neglectus_, but sadly they proved to all be _collybita_. Like Hadash the village is surrounded by steep cliffs which, covered in gnarled _Olea_, seemed like a perfect place to harbour Omani owl. Taking advantage of my long stay in the area I spent a couple of hours both nights listening for the owl at the top of the village beneath the cliffs, but heard nothing and left empty-handed.
 
 ![View from Wukan towards Hadash at dusk.](https://jewh.github.io/images/2025oman/P2090033.JPG)
-*Listening for Omani owls at Wukan, looking east towards Hadash, and the scramble on day 2.*
+*Listening for Omani owls at Wukan, looking east towards Hadash, and the scramble on day 2 (the far ridge).*
 
 The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfat. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfat somehow. Luckily I managed to hitch a lift with a kind young Finnish couple back to Muscat, who dropped me near my guesthouse at Al Qurum beach.
 
