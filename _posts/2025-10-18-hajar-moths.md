@@ -111,4 +111,6 @@ Like many of my mornings in Oman, the view was beautiful. The light in the wadis
 ![View of the car camping in wadi near Nizwa.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
 *Morning light in the wadi.*
 
-Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat. 
+Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat.
+
+_Leaving the blog entry here for a bit, will update more later._
