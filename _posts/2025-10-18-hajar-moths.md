@@ -106,7 +106,7 @@ From Nizwa my plan was clear: hire a car and look for Omani owl. One of the two 
 
 The plan was merely to camp out in the wadi, explore a bit in the dark, and listen for the birds. From what I could tell the owls should be active at dusk and dawn (https://books.soundapproach.co.uk/species/omani-owl/), so no need to lose too much sleep looking for them. I parked up next to the most-visited spot for the owls, and waited. As dusk fell I was optimistic, with a **Pallid scops owl** opening up song right next to camp as soon as the sun sank behind the ridge. However around 30 mins later strong winds blew up out of the desert, deafening me and likely causing any owls to hunker down in shelter. The wind went on til around 2300, and no further owls were heard. I passed out some time around 0100, and woke again as light was creeping into the wadi.
 
-Like many of my mornings in Oman, the view was beautiful. The light in the wadis during the early mornings and late evenings really brings out the colours in the rock, and the air is pleasingly cool. A drive deeper into the wadi revealed it to be quite birdy, with plenty of passerines skulking amongst _Acacias_ at the base of the cliffs. These included **Lesser whitethroats _Curruca curruca_** and **Menetrie's warblers _Curruca mystacea_**, as well as **Striolated bunting _Emberiza striolata_** and **Hume's wheatear** higher up the cliffs. Overhead three **Brown-necked ravens _Corvus ruficollis_** crowed.
+Like many of my mornings in Oman, the view was beautiful. The light in the wadis during the early mornings and late evenings really brings out the colours in the rock, and the air is pleasingly cool. A drive deeper into the wadi revealed it to be quite birdy, with plenty of passerines skulking amongst _Acacias_ at the base of the cliffs. These included **Lesser whitethroats _Curruca curruca_** and **Menetrie's warblers _Curruca mystacea_**, as well as **Striolated bunting _Emberiza striolata_** and **Hume's wheatear** higher up the cliffs. Overhead three **Brown-necked ravens _Corvus ruficollis_** croaked.
 
 ![View of the car camping in wadi near Nizwa.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
 *Morning light in the wadi.*
@@ -114,3 +114,46 @@ Like many of my mornings in Oman, the view was beautiful. The light in the wadis
 Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat.
 
 _Leaving the blog entry here for a bit, will update more later._
+
+List of birds seen in the Hajar Mountains, Feb 2025
+---
+
+**Grey Francolin _Ortygornis pondicerianus_**
+**Sand Partridge _Ammoperdix heyi_**
+**Rock Dove _Columba livia_**
+**Collared Dove _Streptopelia decaocto_**
+**Laughing Dove _Spilopelia senegalensis_**
+**Pallid Swift _Apus pallidus_**
+**Lappet-faced Vulture _Torgos tracheliotos_**
+**Egyptian Vulture _Neophron percnopterus_**
+**Bonelli's Eagle _Aquila fasciata_**
+**Pallid Scops Owl _Otus brucei_**
+**Little Owl _Athene noctua_**
+**Arabian Green Bee-eater _Merops cyanophrys_**
+**Indian Roller _Coracias benghalensis_**
+**Common Kestrel _Falco tinnunculus_**
+**Brown-necked Raven _Corvus ruficollis_**
+**Desert Lark _Ammomanes deserti_**
+**Delicate Prinia _Prinia lepida_**
+**Pale Crag Martin _Ptyonoprogne obsoleta_**
+**White-eared Bulbul _Pycnonotus leucotis_**
+**White-spectacled Bulbul _Pycnonotus xanthopygos_**
+**Common Chiffchaff _Phylloscopus collybita_**
+**Scrub Warbler _Scotocerca inquieta_**
+**Lesser Whitethroat _Curruca curruca_**
+**Menetries's Warbler _Curruca mystacea_**
+**Black Redstart _Phoenicurus ochruros_**
+**Blue Rock Thrush _Monticola solitarius_**
+**Pied Wheatear _Oenanthe pleschanka_**
+**Hume's Wheatear _Oenanthe albonigra_**
+**Purple Sunbird _Cinnyris asiaticus_**
+**Indian Silverbill _Euodice malabarica_**
+**House Sparrow _Passer domesticus_**
+**Grey Wagtail _Motacilla cinerea_**
+**Long-billed Pipit _Anthus similis_**
+**Striolated Bunting _Emberiza striolata_**
+
+List of moths identified from the Hajar Mountains, Feb 2025
+---
+
+(_to follow_)
