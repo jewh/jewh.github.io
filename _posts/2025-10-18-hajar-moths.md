@@ -118,39 +118,39 @@ _Leaving the blog entry here for a bit, will update more later._
 List of birds seen in the Hajar Mountains, Feb 2025
 ---
 
-**Grey Francolin _Ortygornis pondicerianus_**
-**Sand Partridge _Ammoperdix heyi_**
-**Rock Dove _Columba livia_**
-**Collared Dove _Streptopelia decaocto_**
-**Laughing Dove _Spilopelia senegalensis_**
-**Pallid Swift _Apus pallidus_**
-**Lappet-faced Vulture _Torgos tracheliotos_**
-**Egyptian Vulture _Neophron percnopterus_**
-**Bonelli's Eagle _Aquila fasciata_**
-**Pallid Scops Owl _Otus brucei_**
-**Little Owl _Athene noctua_**
-**Arabian Green Bee-eater _Merops cyanophrys_**
-**Indian Roller _Coracias benghalensis_**
-**Common Kestrel _Falco tinnunculus_**
-**Brown-necked Raven _Corvus ruficollis_**
-**Desert Lark _Ammomanes deserti_**
-**Delicate Prinia _Prinia lepida_**
-**Pale Crag Martin _Ptyonoprogne obsoleta_**
-**White-eared Bulbul _Pycnonotus leucotis_**
-**White-spectacled Bulbul _Pycnonotus xanthopygos_**
-**Common Chiffchaff _Phylloscopus collybita_**
-**Scrub Warbler _Scotocerca inquieta_**
-**Lesser Whitethroat _Curruca curruca_**
-**Menetries's Warbler _Curruca mystacea_**
-**Black Redstart _Phoenicurus ochruros_**
-**Blue Rock Thrush _Monticola solitarius_**
-**Pied Wheatear _Oenanthe pleschanka_**
-**Hume's Wheatear _Oenanthe albonigra_**
-**Purple Sunbird _Cinnyris asiaticus_**
-**Indian Silverbill _Euodice malabarica_**
-**House Sparrow _Passer domesticus_**
-**Grey Wagtail _Motacilla cinerea_**
-**Long-billed Pipit _Anthus similis_**
+**Grey Francolin _Ortygornis pondicerianus_**\
+**Sand Partridge _Ammoperdix heyi_**\
+**Rock Dove _Columba livia_**\
+**Collared Dove _Streptopelia decaocto_**\
+**Laughing Dove _Spilopelia senegalensis_**\
+**Pallid Swift _Apus pallidus_**\
+**Lappet-faced Vulture _Torgos tracheliotos_**\
+**Egyptian Vulture _Neophron percnopterus_**\
+**Bonelli's Eagle _Aquila fasciata_**\
+**Pallid Scops Owl _Otus brucei_**\
+**Little Owl _Athene noctua_**\
+**Arabian Green Bee-eater _Merops cyanophrys_**\
+**Indian Roller _Coracias benghalensis_**\
+**Common Kestrel _Falco tinnunculus_**\
+**Brown-necked Raven _Corvus ruficollis_**\
+**Desert Lark _Ammomanes deserti_**\
+**Delicate Prinia _Prinia lepida_**\
+**Pale Crag Martin _Ptyonoprogne obsoleta_**\
+**White-eared Bulbul _Pycnonotus leucotis_**\
+**White-spectacled Bulbul _Pycnonotus xanthopygos_**\
+**Common Chiffchaff _Phylloscopus collybita_**\
+**Scrub Warbler _Scotocerca inquieta_**\
+**Lesser Whitethroat _Curruca curruca_**\
+**Menetries's Warbler _Curruca mystacea_**\
+**Black Redstart _Phoenicurus ochruros_**\
+**Blue Rock Thrush _Monticola solitarius_**\
+**Pied Wheatear _Oenanthe pleschanka_**\
+**Hume's Wheatear _Oenanthe albonigra_**\
+**Purple Sunbird _Cinnyris asiaticus_**\
+**Indian Silverbill _Euodice malabarica_**\
+**House Sparrow _Passer domesticus_**\
+**Grey Wagtail _Motacilla cinerea_**\
+**Long-billed Pipit _Anthus similis_**\
 **Striolated Bunting _Emberiza striolata_**
 
 List of moths identified from the Hajar Mountains, Feb 2025
