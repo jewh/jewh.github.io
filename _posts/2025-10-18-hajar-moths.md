@@ -108,7 +108,7 @@ The plan was merely to camp out in the wadi, explore a bit in the dark, and list
 
 Like many of my mornings in Oman, the view was beautiful. The light in the wadis during the early mornings and late evenings really brings out the colours in the rock, and the air is pleasingly cool. A drive deeper into the wadi revealed it to be quite birdy, with plenty of passerines skulking amongst _Acacia_ at the base of the cliffs. These included **Lesser whitethroats _Curruca curruca_** and **Menetrie's warblers _Curruca mystacea_**, as well as **Striolated bunting _Emberiza striolata_** and **Hume's wheatear** higher up the cliffs. Overhead three **Brown-necked ravens _Corvus ruficollis_** croaked.
 
-![View of the car camping in wadi near Nizwa.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
+![Morning in the wadi.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
 *Morning light in the wadi.*
 
 Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat.
