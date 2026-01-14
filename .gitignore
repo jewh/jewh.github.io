@@ -1,2 +1,7 @@
 _site/
 
+# Dirty workaround
+_posts/
+_publications/
+_pages/
+images/
