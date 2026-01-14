@@ -2,11 +2,11 @@
 _site/
 .sass-cache/
 
-# Dirty workaround
-_posts/
-_publications/
-_pages/
-images/
+# # Dirty workaround
+# _posts/
+# _publications/
+# _pages/
+# images/
 
 *.md
 
