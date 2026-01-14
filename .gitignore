@@ -5,3 +5,6 @@ _posts/
 _publications/
 _pages/
 images/
+
+*.md
+
