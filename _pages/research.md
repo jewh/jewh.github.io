@@ -6,8 +6,8 @@ author_profile: true
 redirect_from: 
   - /research
   - /research.html
-# header:
-#   image: https://jewh.github.io/images/website_banner.png
+header:
+  image: https://jewh.github.io/images/website_banner.png
 ---
 
 Living things strike a balance between robustness and flexibility. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are deleterious. Simultaneously, for life to evolve and adapt to its changing environment, it must be capable of changing in response to mutation or environmental change. I find the balance between these seemingly contradictory things very beautiful. I research how organisms achieve this balance, and how it arises in evolution.

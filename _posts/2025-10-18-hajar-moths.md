@@ -104,14 +104,29 @@ From Nizwa my plan was clear: hire a car and look for Omani owl. One of the two 
 ![View of the car camping in wadi near Nizwa.](https://jewh.github.io/images/2025oman/IMG_20250211_175115.jpg)
 *Car camping in the Omani owl wadi.*
 
-The plan was merely to camp out in the wadi, explore a bit in the dark, and listen for the birds. From what I could tell the owls should be active at dusk and dawn [https://books.soundapproach.co.uk/species/omani-owl/](https://books.soundapproach.co.uk/species/omani-owl/), so no need to lose too much sleep looking for them. I parked up next to the most-visited spot for the owls, and waited. As dusk fell I was optimistic, with a **Pallid scops owl** opening up song right next to camp as soon as the sun sank behind the ridge. However around 30 mins later strong winds blew up out of the desert, deafening me and likely causing any owls to hunker down in shelter. The wind went on til around 2300, and no further owls were heard. I passed out some time around 0100, and woke again as light was creeping into the wadi.
+The plan was merely to camp out in the wadi, explore a bit in the dark, and listen for the birds. From what I could tell the owls [should be active at dusk and dawn](https://books.soundapproach.co.uk/species/omani-owl/), so no need to lose too much sleep looking for them. I parked up next to the most-visited spot for the owls, and waited. As dusk fell I was optimistic, with a **Pallid scops owl** opening up song right next to camp as soon as the sun sank behind the ridge. However around 30 mins later strong winds blew up out of the desert, deafening me and likely causing any owls to hunker down in shelter. The wind went on til around 2300, and no further owls were heard. I passed out some time around 0100, and woke again as light was creeping into the wadi.
 
 Like many of my mornings in Oman, the view was beautiful. The light in the wadis during the early mornings and late evenings really brings out the colours in the rock, and the air is pleasingly cool. A drive deeper into the wadi revealed it to be quite birdy, with plenty of passerines skulking amongst _Acacia_ at the base of the cliffs. These included **Lesser whitethroats _Curruca curruca_** and **Menetrie's warblers _Curruca mystacea_**, as well as **Striolated bunting _Emberiza striolata_** and **Hume's wheatear** higher up the cliffs. Overhead three **Brown-necked ravens _Corvus ruficollis_** croaked.
 
 ![Morning in the wadi.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
 *Morning light in the wadi.*
 
-Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat.
+Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat. At the least I'd got my eye in for the owl's habitat and would be on the lookout for similarly massive cliffs elsewhere in the Hajar. An hour's drive in a taxi I stepped out onto the tarmac carpark in front of Misfat village.
+
+![Banana trees next to the Aflaj in Misfat.](https://jewh.github.io/images/2025oman/IMG_20250213_093850.jpg)*Bananas and Dates growing next to the Aflaj in Misfat al Abriyyn.*
+
+Misfat is very popular with tourists, and rightly so. The mud and stone houses in the old village, at one time fallen into disrepair, have been recently restored and the village now supports three guesthouses. Also, unlike many places in Oman, you can hear the sound of running water, and walk under the shade of trees. The aflaj flows through the village and irrigates the village's tiered fields planted with Date palms, Banana trees, and other crops unfamiliar to me.
+
+Misfat is also an important part of John's traverse of the Hajar. While staying the night in Misfat (a mere 900 m above sea level) is a considerable loss in elevation for walkers coming off the ~2000 m ridge above, it is possible to have post delivered to the guesthouses, thus making resupply of food and other essentials possible. Frederic had posted a parcel full of food ahead for us and the proprietor of our guesthouse was happy to hang onto it until we arrived.
+
+After exploring the village a bit I walked up along the valley behind the village, which I expected Lukas and Frederic to come down on their descent into Misfat. At the head of the village overlooking the source of the Aflaj there is a ruined watchtower, and thinking there was no better place to watch for foreign intruders into Misfat, I sat and waited for the others. As it turned out I had only to wait fifteen minutes before I saw two familiar figures, dusty from the mountain, descending through the valley.
+
+As our stay in the guesthouse was not til the following evening, we made camp that night in the dried riverbed at the bottom of the valley. Here I actually started to look for moths, and as night fell we picked a site to hang the LepiLED. We settled on a large smooth rock near our camp, with a convenient branch above to suspend the lamp.
+
+![Mothing in Misfat.](https://jewh.github.io/images/2025oman/IMG_20250212_183440.jpg)*LepiLED in action outside Misfat al Abriyyn.*
+
+<!-- It felt good to be sleeping under a bright starlit sky again, and as I looked up I could see the silhouettes of bats nectaring in the trees above me. As the night drew on a **Little Owl _Athene noctua_** started its mewing call. -->
+
 
 _Leaving the blog entry here for a bit, will update more later._
 
