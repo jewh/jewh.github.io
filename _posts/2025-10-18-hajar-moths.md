@@ -111,7 +111,7 @@ Like many of my mornings in Oman, the view was beautiful. The light in the wadis
 ![Morning in the wadi.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
 *Morning light in the wadi.*
 
-Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat. At the least I'd got my eye in for the owl's habitat and would be on the lookout for similarly massive cliffs elsewhere in the Hajar. An hour's drive in a taxi I stepped out onto the tarmac carpark in front of Misfat village.
+Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat. At the least I'd got my eye in for the owl's habitat and would be on the lookout for similarly massive cliffs elsewhere in the Hajar. After an hour's ride in a taxi I stepped out onto the tarmac carpark in front of Misfat village.
 
 Misfat is popular with tourists, and rightly so. The mud and stone houses in the old village, at one time fallen into disrepair, have been recently restored and the village now supports three guesthouses. Also, unlike many places in Oman, you can hear the sound of running water, and walk under the shade of trees. The aflaj flows through the village and irrigates the village's tiered fields planted with Date palms, Banana trees, and other crops unfamiliar to me.
 
@@ -171,12 +171,59 @@ List of birds seen in the Hajar Mountains, Feb 2025
 List of moths identified from the Hajar Mountains, Feb 2025
 ---
 
-(_to follow_)
+With credit to Arno Beidts and others on iNaturalist for their help.
+
+_List up-to-date as of 15/01/2026. As more species are identified, or identifications change, this list will change._
+
+**Psychidae**\
+**_Amicta quadrangularis_**
+
+**Gelechiidae**\
+**_Tuta absoluta_**\
+**_Ochrodia subdiminutella_**\
+**_Deltophora fasciella_**
+
+**Pyralidae**\
+**_Epicrocis pseudodiscomaculella_**\
+**_Etiella zinckenella_**\
+**_Aphomia sabella_**
+
+**Crambidae**\
+**_Noorda blitealis_**
+
+**Geometridae**\
+**_Neromia pulvereisparsa_**\
+**_Conolophia conscitaria_**\
+**_Chiasmia latimarginaria_**
+
+**Noctuidae**\
+**_Pandesma robusta_**\
+**_Heliothis nubigera_**\
+**_Caradrina atriluna_**\
+**_Thysanoplusia exquisita_**\
+**_Pseudozarba mesozona_**\
+**_Epharmottomena leucodonta_**
+
+**Erebidae**\
+**_Antarchaea erubescens_**\
+**_Creatonotos omanirana_**\
+**_Casama innotata_**\
+**_Acantholipes circumdata_**\
+**_Tytroca dispar_**\
+**_Eublemma alexi_**\
+**_Ocnerogyia layla_**
 
 Unidentified moths from the Hajar Mountains, Feb 2025
 ---
 
 If you want to help out identifying these, please contribute to the observations on [iNaturalist](https://www.inaturalist.org/observations?nelat=23.581109871262615&nelng=58.06990971067823&swlat=22.838975436873227&swlng=56.88887943724073&user_id=hammondjames26&verifiable=any).
+
+
+![Zelleria sp.](https://jewh.github.io/images/2025oman/P2160315.JPG)
+**_Zelleria_ sp.? iNat observation [here](https://www.inaturalist.org/observations/263375997).**
+
+![Gelechiid sp.](https://jewh.github.io/images/2025oman/ridge_camp/P2150201.JPG)
+**Gelechiidae sp. iNat observation [here](https://www.inaturalist.org/observations/263375731).**
 
 (_to follow_)
 
