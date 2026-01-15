@@ -46,7 +46,7 @@ It was mid-morning on the 6th of February when we assembled together in Muscat a
 
 Starting so late in the day we planned to break the first leg of our journey over two days, camping somewhere up near the top of our 1400 m ascent to the ridge where we then descend 600 m to the village of Hadash in the spectacular Al Ghubrah bowl. Notably there is no water source along this path, so we had to be prepared for two days without resupply.
 
-Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up my bottles with three litres of water - two litres for the ascent this evening and afternoon, then a litre for the descent into Hadash. This proved absolutely moronic. 
+Here is where I made a dangerous mistake that affected everyone for the next three days. Having already drunk a lot of water, and already having a very heavy rucksack (25kg+), I only filled up my bottles with three litres of water - one litre for our ascent this evening and afternoon, then two litres for the final climb and descent into Hadash. This proved absolutely moronic. 
 
 The track from the wadi up the mountain was challenging but very beautiful. Birdlife included **Pale Crag Martin _Ptyonoprogne obsoleta_**, **Desert Lark _Ammomanes deserti_**, and **Arabian Green Bee-eater _Merops cyanophrys_**, as well as a **Long-billed Pipit _Anthus similis_**, which I was very pleased to see.
 
