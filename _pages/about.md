@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  image: https://jewh.github.io/images/website_banner.png
 ---
 
 Hello and welcome to my website. I am a developmental biologist currently working at the University of Cambridge. Here you will be able to find information about my research and my personal interests.
