@@ -113,9 +113,9 @@ Like many of my mornings in Oman, the view was beautiful. The light in the wadis
 
 Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat. At the least I'd got my eye in for the owl's habitat and would be on the lookout for similarly massive cliffs elsewhere in the Hajar. An hour's drive in a taxi I stepped out onto the tarmac carpark in front of Misfat village.
 
-![Banana trees next to the Aflaj in Misfat.](https://jewh.github.io/images/2025oman/IMG_20250213_093850.jpg)*Bananas and Dates growing next to the Aflaj in Misfat al Abriyyn.*
+Misfat is popular with tourists, and rightly so. The mud and stone houses in the old village, at one time fallen into disrepair, have been recently restored and the village now supports three guesthouses. Also, unlike many places in Oman, you can hear the sound of running water, and walk under the shade of trees. The aflaj flows through the village and irrigates the village's tiered fields planted with Date palms, Banana trees, and other crops unfamiliar to me.
 
-Misfat is very popular with tourists, and rightly so. The mud and stone houses in the old village, at one time fallen into disrepair, have been recently restored and the village now supports three guesthouses. Also, unlike many places in Oman, you can hear the sound of running water, and walk under the shade of trees. The aflaj flows through the village and irrigates the village's tiered fields planted with Date palms, Banana trees, and other crops unfamiliar to me.
+![Banana trees next to the Aflaj in Misfat.](https://jewh.github.io/images/2025oman/IMG_20250213_093850.jpg)*Bananas and Dates growing next to the Aflaj in Misfat al Abriyyn.*
 
 Misfat is also an important part of John's traverse of the Hajar. While staying the night in Misfat (a mere 900 m above sea level) is a considerable loss in elevation for walkers coming off the ~2000 m ridge above, it is possible to have post delivered to the guesthouses, thus making resupply of food and other essentials possible. Frederic had posted a parcel full of food ahead for us and the proprietor of our guesthouse was happy to hang onto it until we arrived.
 
