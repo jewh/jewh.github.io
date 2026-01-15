@@ -125,14 +125,28 @@ As our stay in the guesthouse was not til the following evening, we made camp th
 
 ![Mothing in Misfah.](https://jewh.github.io/images/2025oman/IMG_20250212_183440.jpg)*LepiLED in action outside Misfah al Abriyyn.*
 
-Pretty quickly after lighting up moths started to arrive. I was pleased to find that I could assign most of them a family, and some of them a probable genus, based on species I'm familiar with from the UK. One I was also able to identify straight away, **_Chiasmia latimarginaria_**, having seen images of this species in a Facebook post about moth trapping on Jebel Akhdar. 
+Pretty quickly after lighting up moths started to arrive. I was pleased to find that I could assign most of them a family, and some of them a probable genus, based on species I'm familiar with from the UK. One I was also able to identify straight away, **_Chiasmia latimarginaria_**, having seen images of this species in a Facebook post about moth trapping on Jebel Akhdar. Another fairly straightforward ID was of **_Eublemma alexi_**, the genus being immediately obvious and the species being nice and distinctive.
 
-![Chiasmia latimarginaria.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120114.jpg)*Chiasmia latimarginaria.*
+![Chiasmia latimarginaria.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120114.JPG)*Chiasmia latimarginaria.* ![Eublemma alexi.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120120.JPG)*Eublemma alexi.*
+
+By far the stand-out moth for me though was a gorgeous blue and yellow **_Stathmopoda_**. [Afromoths.net](https://Afromoths.net) lists several very similar species in this genus, so I suspect the identity of this moth will have to remain unknown without dissection. 
+
+![Stathmopoda sp.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120092.JPG)*Stathmopoda sp.*
+
+After a couple of hours' mothing we turned off the LepiLED and wriggled into our sleeping bags.
+
+Having spent the previous nights either in a car or a guesthouse it felt good to be sleeping under a bright starlit sky again. As I looked up I could see the silhouettes of bats nectaring in the trees above me. When the moon came over the ridge a **Little Owl _Athene noctua_** started its mewing call.
 
 Days 9-13 - Misfah al Abriyyn to Jebel Shams
 ---
-<!-- It felt good to be sleeping under a bright starlit sky again, and as I looked up I could see the silhouettes of bats nectaring in the trees above me. As the night drew on a **Little Owl _Athene noctua_** started its mewing call. -->
 
+The following day was spent relaxing in Misfah and enjoying the greenery. Lukas was eager to take some time off the trail and see the cultural sights of Oman, so over the next few days it would just be Frederic and I walking. With this in mind we planned a circular route that would take us back up onto the ridge from which Frederic and Lukas had just descended, along west to Jebel Shams, then back down a long valley to Misfah, where we would rendezvous with Lukas again.
+
+As we were only going to be gone for three days, we opted to leave surplus food and belongings in Misfah. Fortunately the owner of our guesthouse was extremely accommodating and happy to let us leave it with him. The hospitality in Misfah is really top-notch and the kindness shown by the owner of our guesthouse made a lot of what we did possible. The owner warned us about the 'crocodiles and tigers' on the mountain, and waved us off.
+
+The walk up to the ridge was a gentle 'donkey track', still in active use by donkey caravans. This made the trail easy to find, either by the constant stream of donkey droppings amongst boulder fields or the worn-smooth path across limestone pavements. Though we started early, the temperature was initially quite warm and unpleasant for walking. However by the time we reached the summit of the ridge at approx 1800 m it had dropped to a pleasant ~18°C.
+
+As we climbed the vegetation changed too, and it was here that I first started to see Pashtun junipers. 
 
 _Leaving the blog entry here for a bit, will update more later._
 
