@@ -97,7 +97,7 @@ Over that afternoon and the following day I explored Wukan, a scenic agrarian vi
 ![View from Wukan towards Hadash at dusk.](https://jewh.github.io/images/2025oman/P2090033.JPG)
 *Listening for Omani owls at Wukan, looking east towards Hadash, and the scramble on day 2 (the far ridge).*
 
-The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfat. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfat somehow. Luckily I managed to hitch a lift with a kind young Finnish couple from Wukan back to Muscat. After an evening's birding the mangrove estuary near Al Qurum beach, and a couple of hours in a taxi, I arrived in Nizwa.
+The issue with not following John's route is I now had to take a massive detour to link up with Frederic and Lukas again at Misfah. This route would have to take me first to Muscat, then along the Muscat-Nizwa highway (past the starting point of our hike) to Nizwa and on from there to Misfah somehow. Luckily I managed to hitch a lift with a kind young Finnish couple from Wukan back to Muscat. After an evening's birding the mangrove estuary near Al Qurum beach, and a couple of hours in a taxi, I arrived in Nizwa.
 
 From Nizwa my plan was clear: hire a car and look for Omani owl. One of the two car-accessible wadis visited by birders in pursuit of Omani owl is near Nizwa. I won't reveal the specific wadi, but it's easy enough to find if you know where to look. After arranging a 24 hr rental with one of the Nizwa hire car companies, I was off in pursuit of owls.
 
@@ -111,20 +111,26 @@ Like many of my mornings in Oman, the view was beautiful. The light in the wadis
 ![Morning in the wadi.](https://jewh.github.io/images/2025oman/IMG_20250212_084740.jpg)
 *Morning light in the wadi.*
 
-Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfat. At the least I'd got my eye in for the owl's habitat and would be on the lookout for similarly massive cliffs elsewhere in the Hajar. After an hour's ride in a taxi I stepped out onto the tarmac carpark in front of Misfat village.
+Having drawn a blank on Omani owl, it was time to hand the car back and make my way to Misfah. At the least I'd got my eye in for the owl's habitat and would be on the lookout for similarly massive cliffs elsewhere in the Hajar. After an hour's ride in a taxi I stepped out onto the tarmac carpark in front of Misfah village.
 
-Misfat is popular with tourists, and rightly so. The mud and stone houses in the old village, at one time fallen into disrepair, have been recently restored and the village now supports three guesthouses. Also, unlike many places in Oman, you can hear the sound of running water, and walk under the shade of trees. The aflaj flows through the village and irrigates the village's tiered fields planted with Date palms, Banana trees, and other crops unfamiliar to me.
+Misfah is popular with tourists, and rightly so. The mud and stone houses in the old village, at one time fallen into disrepair, have been recently restored and the village now supports three guesthouses. Also, unlike many places in Oman, you can hear the sound of running water, and walk under the shade of trees. The aflaj flows through the village and irrigates the village's tiered fields planted with Date palms, Banana trees, and other crops unfamiliar to me.
 
-![Banana trees next to the Aflaj in Misfat.](https://jewh.github.io/images/2025oman/IMG_20250213_093850.jpg)*Bananas and Dates growing next to the Aflaj in Misfat al Abriyyn.*
+![Banana trees next to the Aflaj in Misfah.](https://jewh.github.io/images/2025oman/IMG_20250213_093850.jpg)*Bananas and Dates growing next to the Aflaj in Misfah al Abriyyn.*
 
-Misfat is also an important part of John's traverse of the Hajar. While staying the night in Misfat (a mere 900 m above sea level) is a considerable loss in elevation for walkers coming off the ~2000 m ridge above, it is possible to have post delivered to the guesthouses, thus making resupply of food and other essentials possible. Frederic had posted a parcel full of food ahead for us and the proprietor of our guesthouse was happy to hang onto it until we arrived.
+Misfah is also an important part of John's traverse of the Hajar. While staying the night in Misfah (a mere 900 m above sea level) is a considerable loss in elevation for walkers coming off the ~2000 m ridge above, it is possible to have post delivered to the guesthouses, thus making resupply of food and other essentials possible. Frederic had posted a parcel full of food ahead for us and the proprietor of our guesthouse was happy to hang onto it until we arrived.
 
-After exploring the village a bit I walked up along the valley behind the village, which I expected Lukas and Frederic to come down on their descent into Misfat. At the head of the village overlooking the source of the Aflaj there is a ruined watchtower, and thinking there was no better place to watch for foreign intruders into Misfat, I sat and waited for the others. As it turned out I had only to wait fifteen minutes before I saw two familiar figures, dusty from the mountain, descending through the valley.
+After exploring the village a bit I walked up along the valley behind the village, which I expected Lukas and Frederic to come down on their descent into Misfah. At the head of the village overlooking the source of the Aflaj there is a ruined watchtower, and thinking there was no better place to watch for foreign intruders into Misfah, I sat and waited for the others. As it turned out I had only to wait fifteen minutes before I saw two familiar figures, dusty from the mountain, descending through the valley.
 
 As our stay in the guesthouse was not til the following evening, we made camp that night in the dried riverbed at the bottom of the valley. Here I actually started to look for moths, and as night fell we picked a site to hang the LepiLED. We settled on a large smooth rock near our camp, with a convenient branch above to suspend the lamp.
 
-![Mothing in Misfat.](https://jewh.github.io/images/2025oman/IMG_20250212_183440.jpg)*LepiLED in action outside Misfat al Abriyyn.*
+![Mothing in Misfah.](https://jewh.github.io/images/2025oman/IMG_20250212_183440.jpg)*LepiLED in action outside Misfah al Abriyyn.*
 
+Pretty quickly after lighting up moths started to arrive. I was pleased to find that I could assign most of them a family, and some of them a probable genus, based on species I'm familiar with from the UK. One I was also able to identify straight away, **_Chiasmia latimarginaria_**, having seen images of this species in a Facebook post about moth trapping on Jebel Akhdar. 
+
+![Chiasmia latimarginaria.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120114.jpg)*Chiasmia latimarginaria.*
+
+Days 9-13 - Misfah al Abriyyn to Jebel Shams
+---
 <!-- It felt good to be sleeping under a bright starlit sky again, and as I looked up I could see the silhouettes of bats nectaring in the trees above me. As the night drew on a **Little Owl _Athene noctua_** started its mewing call. -->
 
 
@@ -219,11 +225,11 @@ Unidentified moths from the Hajar Mountains, Feb 2025
 If you want to help out identifying these, please contribute to the observations on [iNaturalist](https://www.inaturalist.org/observations?nelat=23.581109871262615&nelng=58.06990971067823&swlat=22.838975436873227&swlng=56.88887943724073&user_id=hammondjames26&verifiable=any).
 
 
-![Zelleria sp.](https://jewh.github.io/images/2025oman/P2160315.JPG)
-**_Zelleria_ sp.? iNat observation [here](https://www.inaturalist.org/observations/263375997).**
+![Zelleria sp.](https://jewh.github.io/images/2025oman/moths/P2160315.JPG)
+**_Zelleria_ sp.?** iNat observation [here](https://www.inaturalist.org/observations/263375997).
 
-![Gelechiid sp.](https://jewh.github.io/images/2025oman/ridge_camp/P2150201.JPG)
-**Gelechiidae sp. iNat observation [here](https://www.inaturalist.org/observations/263375731).**
+![Gelechiid sp.](https://jewh.github.io/images/2025oman/moths/ridge_camp/P2150201.JPG)
+**Gelechiidae sp.** iNat observation [here](https://www.inaturalist.org/observations/263375731).
 
 (_to follow_)
 
