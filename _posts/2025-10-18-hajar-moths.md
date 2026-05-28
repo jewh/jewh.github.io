@@ -148,11 +148,16 @@ The walk up to the ridge was a gentle 'donkey track', still in active use by don
 
 The walk up to the ridge was not too birdy. There were the usual **Black redstarts**, and near the top of the ridge a lone **Egyptian vulture _Neophron percnopterus_**. There was excitement however when I spotted two massive dark birds, soaring distantly above the ridge. These could only be **Lappet-faced Vulture _Torgos tracheliotos_**, and raising my binoculars I was happy to confirm the ID.
 
-Here Frederic picked out a campsite with an excellent view, and conveniently close to a small Pashtun Juniper, which I hoped would host some interesting moths. After collecting some stagnant water from a nearby concrete reservoir, and filtering it and nuking any microbes with chlorine dioxide tablets, we hung up the LepiLED on the juniper. Due to the colder temperature, the catch was poorer than that at Misfah. However, there was some serious quality amongst the catch, my favourite being this black and white gelechiid. This has now been identified by Arno Beidts as _Agnippe separatella_
+Here Frederic picked out a campsite with an excellent view, and conveniently close to a small Pashtun Juniper, which I hoped would host some interesting moths. After collecting some stagnant water from a nearby concrete reservoir, and filtering it and nuking any microbes with chlorine tablets, we hung up the LepiLED on the juniper. Due to the colder temperature, the catch was poorer than that at Misfah. However, there was some serious quality amongst the catch, my favourite being this black and white gelechiid. This has now been identified by Arno Beidts as **_Agnippe separatella_**. Tantalisingly, I also saw what I thought was an _Argyresthia_ &mdash; a genus of moths that feeds in Junipers in europe &mdash; despite no _Argyresthia_ being known from Oman (to my knowledge). Sadly I fumbled it, and it escaped my pot. One for a future trip!
 
-![Gelechiid sp.](https://jewh.github.io/images/2025oman/moths/ridge_camp/P2150201.JPG)
-*_Agnippe separatella_, with thanks to Arno Beidts for the identification*.
+![Agnippe separatella](https://jewh.github.io/images/2025oman/moths/ridge_camp/P2150201.JPG)
+*Agnippe separatella, with thanks to Arno Beidts for the identification*.
 
+![Poo with a view](https://jewh.github.io/images/2025oman/P2140148.JPG)*View from our campsite on the ridge, looking north-west.*
+
+The following morning we had an epic view for our morning ablutions. Here we had a gentle-ish day planned climbing along the ridge towards Jebel Shams, following the well-marked ultramarathon route. The route dipped down the northern, seaward side of the ridge, taking us into a pleasingly verdant scrub-forest dominated by Pashtun juniper. Overhead another **Bonelli's Eagle** patrolled the ridge, and **White-spectacled Bulbuls** flitted amongst the trees, calling. The walk was pleasant but largely uneventful, besides admiring the junipers. 
+
+![Omani woodland](https://jewh.github.io/images/2025oman/P2150221.JPG)*The short woodland of the Hajar.*
 
 
 
