@@ -127,15 +127,15 @@ As our stay in the guesthouse was not til the following evening, we made camp th
 
 Pretty quickly after lighting up moths started to arrive. I was pleased to find that I could assign most of them a family, and some of them a probable genus, based on species I'm familiar with from the UK. One I was also able to identify straight away, **_Chiasmia latimarginaria_**, having seen images of this species in a Facebook post about moth trapping on Jebel Akhdar. Another fairly straightforward ID was of **_Eublemma alexi_**, the genus being immediately obvious and the species being nice and distinctive.
 
-![Chiasmia latimarginaria.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120114.JPG)*Chiasmia latimarginaria.* ![Eublemma alexi.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120120.JPG)*Eublemma alexi.*
+![Chiasmia latimarginaria.](https://jewh.github.io/images/2025oman/moths/misfat_1/P2120114.JPG)*Chiasmia latimarginaria.* ![Eublemma alexi.](https://jewh.github.io/images/2025oman/moths/misfat_1/P2120120.JPG)*Eublemma alexi.*
 
 By far the stand-out moth for me though was a gorgeous blue and yellow **_Stathmopoda_**. [Afromoths.net](https://Afromoths.net) lists several very similar species in this genus, so I suspect the identity of this moth will have to remain unknown without dissection. 
 
-![Stathmopoda sp.](https://jewh.github.io/images/2025oman/moths/misfat_#1/P2120092.JPG)*Stathmopoda sp.*
+![Stathmopoda sp.](https://jewh.github.io/images/2025oman/moths/misfat_1/P2120092.JPG)*Stathmopoda sp.*
 
 After a couple of hours' mothing we turned off the LepiLED and wriggled into our sleeping bags. Having spent the previous nights either in a car or a guesthouse it felt good to be sleeping under a bright starlit sky again. As I looked up I could see the silhouettes of bats nectaring in the trees above me. When the moon came over the ridge a **Little Owl _Athene noctua_** started its mewing call.
 
-Days 9-13 - Misfah al Abriyyn to Jebel Shams
+Days 9-13 - Misfah al Abriyyn to Jebel Shams, and back again
 ---
 
 The following day was spent relaxing in Misfah and enjoying the greenery. Lukas was eager to take some time off the trail and see the cultural sights of Oman, so over the next few days it would just be Frederic and I walking. With this in mind we planned a circular route that would take us back up onto the ridge from which Frederic and Lukas had just descended, along west to Jebel Shams, then back down a long valley to Misfah, where we would rendezvous with Lukas again.
@@ -158,6 +158,25 @@ Here Frederic picked out a campsite with an excellent view, and conveniently clo
 The following morning we had an epic view for our morning ablutions. Here we had a gentle-ish day planned climbing along the ridge towards Jebel Shams, following the well-marked ultramarathon route. The route dipped down the northern, seaward side of the ridge, taking us into a pleasingly verdant scrub-forest dominated by Pashtun juniper. Overhead another **Bonelli's Eagle** patrolled the ridge, and **White-spectacled Bulbuls** flitted amongst the trees, calling. The walk was pleasant but largely uneventful, besides admiring the junipers. 
 
 ![Omani woodland](https://jewh.github.io/images/2025oman/P2150221.JPG)*The short woodland of the Hajar.*
+
+![Omani woodland 2](https://jewh.github.io/images/2025oman/P2150229.JPG)*View looking ENE, down the seaward side of the ridge.*
+
+A couple of hours before sunset we arrived at our campsite, just below a moderately steep final scramble that leads up the ridge to the summit of Jebel Shams. Here, there are a series of drystone corrals which provide shelter from the wind. Frederic and I each chose our own corral to make camp in, and immediately set out in search of water.
+
+The water source for this camp is quite a memorable one, being about 100m along a narrow limestone cave (Sab Al Nar cave) in the cliff face of Jebel Shams. To reach it from the camp site, one scrambles down the ridge and west, following quite a well-worn path.
+
+![Approaching Sab Al Nar](https://jewh.github.io/images/2025oman/P2150236.JPG)*Descending the ridge towards the cave spring.*
+
+The cave has quite a broad and spacious entrance. However upon proceeding deeper one climbs up a slope at the back of entrance, where the cave narrows suddenly. Here the air rapidly becomes thick and humid as one climbs the slope. From here the way is obvious, following a narrow but not uncomfortable passage (average width of ~1m) deeper into the rock. When close to the cave pool, the cave forks in two, though both passages lead to the pool. In any case, there was a steady stream of plastic litter and other evidence of human activity for us to follow.
+
+![View inside Sab Al Nar](https://jewh.github.io/images/2025oman/P2150238.JPG)*Sab Al Nar cave, near the pool junction.*
+![Sab Al Nar cave pool](https://jewh.github.io/images/2025oman/P2150242.JPG)*The pool in Sab Al Nar cave.*
+
+Upon arrival at the pool we each took turns filling our water bottles, using the junction to switch places as there is only really room for one person at the pool. Having successfully not disturbed any of the fine silt settled at the bottom of the pool, we were treated to beautifully clear water, which we would later find (after filtering and treatment) has a distinct popcorn or almost eggy flavour. I presume some sulfur compound in the water?
+
+That night we took advan
+
+
 
 
 
