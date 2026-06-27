@@ -17,24 +17,26 @@ Employment ⚒️
 Education 🎓
 ---
 
-* DPhil Zoology, Merton College, University of Oxford (2020-2025)
+* DPhil Zoology, University of Oxford (2020-2025)
 * BSc (Hons) Biology and Mathematics, University of St Andrews (2016-2020)
 
 Training
 ---
 * Embryology course, Marine Biological Laboratory (2024)
 
-Awards & Funding
+<!-- Awards & Funding
 ---
 * NERC Doctoral Training Studentship (2020-2024)
 * Oxford University Press Achievement in Biosciences Prize, University of St Andrews (2020)
-* Runner-up, Gilbert White Youth Award (2016)
+* Runner-up, Gilbert White Youth Award (2016) -->
 
 Publications
 ---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+You can view my complete CV [here](https://jewh.github.io/files/CV.pdf).
 
 <!-- Awards & Funding
 ======
