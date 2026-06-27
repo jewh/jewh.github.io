@@ -190,7 +190,7 @@ At a certain point the boulders become too large to be passable, and the route s
 About midway along this route there is a water source, where a plastic barrel is positioned underneath a cliff drip. The water is clear and good to drink, but care needs to be taken when filling a bottle not to collect all the drowned invertebrates floating on the surface. Upon inspecting this debris, I saw three small moths floating dead in the water. They looked tantalisingly like _Argyresthia_, but I suspect they are actually **_Zelleria_**. I've attached a picture of one below, please let me know if you know the species.
 
 ![Zelleria sp.](https://jewh.github.io/images/2025oman/moths/P2160315.JPG)
-*_Zelleria_ sp.?*
+*Zelleria sp.?*
 
 The wadi was full of goats and it wasn't long til we met their owner, a man who sat motionless on a ledge above the path with a rifle at his side. We respectively attempted to exchange pleasantries in arabic and english, though I'm not sure how successful either party was. By coincidence though, he was leaving his post with us, his brother having just arrived to relieve him of his watch. Wearing only light leather sandals, he soon raced ahead of us and we only caught up to him again near the end of the ridge walk, where the path ascends a scree slope of loose shale, back onto the flat and open limestone pavement of the Hajar.
 
@@ -203,7 +203,18 @@ Here I put out the LepiLED on our favoured rock. The day seemed warmer than befo
 ![Creatonotos omanirana](https://jewh.github.io/images/2025oman/moths/Misfat_2/P2160375.JPG)*Creatonotos omanirana*.
 ![Acantholipes circumdata](https://jewh.github.io/images/2025oman/moths/Misfat_2/P2160345.JPG)*Acantholipes circumdata*.
 
+Days 13-15 - Back to Muscat
+---
 
+The trip was now coming to an end and we had to make our way back to Muscat. Unfortunately, the Hajar lay in our way! After a morning's touristing visiting the UNESCO World Heritage fort in Bahla, we sought to find a taxi willing to take us around Jebel Shams, from where we would re-join John's original route leading down through a wadi to the village of Yiqa Al Jadeed, on the highway to Muscat.
+
+To our amazement, we found a driver willing to take us. Initially doubtful of the suitability of his Toyota corolla for the mountain road, we were reassured when he drove us to his home, and told us to home over into his landcruiser. He then went inside the house, and came back with a couple kgs of dates (again khalas I think - lovely) and a flask full of cardamom coffee. We had a comfortable drive up to the head of wadi, though I think our driver was a bit stressed by the mountain road and eager to get the job over with.
+
+With again not long til nightfall, we descended down a steep boulderfield to the base of the wadi. Above us stretched some enormous cliffs, which I judged to certainly harbour Omani owls. At the head of the wadi there is a large pool, from which an aflaj drains, feeding to small agricultural terraces slightly further down the wadi. Remarkably, there are fish in this pool, and some sort of caddis fly larva. I'd love to know what these fish are; if I had to guess they were something like **_Garra barreimiae_** (looking like some sort of loach), but I'm sure they have very interesting biology.
+
+![](https://jewh.github.io/images/2025oman/P2170394.JPG)*Descent into the wadi. The tall owl-ly cliffs rise above us, at the back of the wadi.*
+
+That night (after finishing most of the dates), we set up the LepiLED for the final time. We chose again a flat rock, hanging the lamp out in front of it from a tree branch. Leaving the trap to do its thing, Frederic and I walked down the aflaj into the dark wadi to listen for owls. I tried imitating the Omani owl call several times, and played a few recordings of Omani owl song from my phone. On two occassions both Frederic and I thought we heard something answer us, but it was too distant to be sure.
 
 _Leaving the blog entry here for a bit, will update more later._
 
