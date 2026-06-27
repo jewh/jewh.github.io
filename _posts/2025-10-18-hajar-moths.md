@@ -214,7 +214,15 @@ With again not long til nightfall, we descended down a steep boulderfield to the
 
 ![](https://jewh.github.io/images/2025oman/P2170394.JPG)*Descent into the wadi. The tall owl-ly cliffs rise above us, at the back of the wadi.*
 
-That night (after finishing most of the dates), we set up the LepiLED for the final time. We chose again a flat rock, hanging the lamp out in front of it from a tree branch. Leaving the trap to do its thing, Frederic and I walked down the aflaj into the dark wadi to listen for owls. I tried imitating the Omani owl call several times, and played a few recordings of Omani owl song from my phone. On two occassions both Frederic and I thought we heard something answer us, but it was too distant to be sure.
+That night (after finishing most of the dates), we set up the LepiLED for the final time. We chose again a flat rock, hanging the lamp out in front of it from a tree branch. Leaving the trap to do its thing, Frederic and I walked down the aflaj into the dark wadi to listen for owls. I tried imitating the Omani owl call several times, and played a few recordings of Omani owl song from my phone. On two occasions both Frederic and I thought we heard something answer us, but it was too distant to be sure.
+
+Happily the LepiLED had brought in the goods, and we returned to a nice mix of moths. The most interesting for me were the lymantriid **_Ocnerogyia layla_** (thanks to user lymantriman on iNaturalist for ID), and a small white micro, which looks like a **_Scythris_**, possibly _pollicella_, though I'm not entirely sure. Feeling quite tired we packed the trap up after maybe only an hour or so, and lay back on our camp mats. This deep in the wadi, without moonlight, the wadi walls around us looked totally black, and obscured almost all of our vision of the outside world. Looking up, the small visible sector of the starry night sky looked like a reflection in water.
+
+![Ocnerogyia layla](https://jewh.github.io/images/2025oman/moths/Al Marratt/P2170400.JPG)*Ocnerogyia layla. Thanks to user lymantriman on iNaturalist for ID*.
+![Scythris](https://jewh.github.io/images/2025oman/moths/Al Marratt/P2170420.JPG)*Scythris pollicella?*.
+
+
+
 
 _Leaving the blog entry here for a bit, will update more later._
 
