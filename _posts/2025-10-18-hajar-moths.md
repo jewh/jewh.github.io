@@ -181,7 +181,7 @@ That night we took advantage of our sheltered corrals for some mothing. Using a 
 
 The following day our plan was to walk back downhill to Misfah al Abriyyn via a route that John billed as a donkey track, passable in only a few hours. The path began smoothly, and as we made our way down the largely flat sheet of rock that comprises the southward Hajar, we reached a small hut at the head of a green wadi. John's path follows this wadi, which connects to another larger valley, eventually leading back to Misfah. Upon descending down into the wadi our progress quickly deteriorated, and we were back to the slow, boulder-hopping wadi travel that we'd become accustomed to.
 
-![The green wadi](https://jewh.github.io/images/2025oman/P2160304.JPG)*The green wadi, looking back up to Jebel Shams.*
+![The green wadi](https://jewh.github.io/images/2025oman/P2160304.JPG)*The green wadi, looking back up to Jebel Shams. Note the boulders in the wadi bed which make wadi travel so slow.*
 
 At a certain point the boulders become too large to be passable, and the route scrambles back up the cliff on the right bank of the wadi, where one proceeds via a long route of ledges. This route was absolutely spectacular and an extremely memorable walk. The route is quite exposed, with a bit of a drop to your side, and there are several points where this ledge is overun by a slope of fine scree, that requires care to traverse.
 
@@ -191,6 +191,17 @@ About midway along this route there is a water source, where a plastic barrel is
 
 ![Zelleria sp.](https://jewh.github.io/images/2025oman/moths/P2160315.JPG)
 *_Zelleria_ sp.?*
+
+The wadi was full of goats and it wasn't long til we met their owner, a man who sat motionless on a ledge above the path with a rifle at his side. We respectively attempted to exchange pleasantries in arabic and english, though I'm not sure how successful either party was. By coincidence though, he was leaving his post with us, his brother having just arrived to relieve him of his watch. Wearing only light leather sandals, he soon raced ahead of us and we only caught up to him again near the end of the ridge walk, where the path ascends a scree slope of loose shale, back onto the flat and open limestone pavement of the Hajar.
+
+By now, it was maybe three hours before sunset. We had departed our camp not long after dawn, so we were a bit surprised at John's predicted pace for the route. We weren't even in Misfah yet! However we could see a village immediately in front of us, with a road leading away downhill from it. As we entered the village we were welcomed into the village common room (the Majlis) by one of the villagers, and we were all too glad to sit down in the cool, dark room. Here we were treated to deliciously sticky, toffee-like dates (I think probably the 'khalas' variety?), and hot, restorative omani cardamom coffee. We didn't have much to offer in return besides some trail mix, which unfortunately did not appear a hit with the village's menfolk, who joined us in the Majlis. Feeling restored, we tried our best to ask if we could refill our water bottles at the tap outside. Our host was only too happy to oblige, and offered us a lift back to Misfah. This offer we graciously declined, and trying to say 'shukran' in as heartfelt a manner as we could, we plodded away down the vehicle track.
+
+After some cross-country walking, we entered Misfah via a route clearly not often taken by tourists (through an old chicken wire fence, down into the small gully full of litter, up past the barking dog into the car park). Here we met up again with Lukas, who'd had some solo adventures around Nizwa that he was keen to share with us. Now quite familiar with the village, we walked along the Aflaj to its source, where we made camp for a second time.
+
+Here I put out the LepiLED on our favoured rock. The day seemed warmer than before, and moth numbers were higher. The stand-out moth was the arctiid **_Creatonotos omanirana_**, being a member of quite an iconic genus with some [very impressive pheremone-releasing structures](https://en.wikipedia.org/wiki/Creatonotos_gangis#/media/File:DSC0672-01_creatonotos_gangis.jpg) in the male. A striking **_Acantholipes circumdata_** was also welcome.
+
+![Creatonotos omanirana](https://jewh.github.io/images/2025oman/moths/Misfat_2/P2160375.JPG)*Creatonotos omanirana*.
+![Acantholipes circumdata](https://jewh.github.io/images/2025oman/moths/Misfat_2/P2160345.JPG)*Acantholipes circumdata*.
 
 
 
