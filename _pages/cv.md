@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Employment ⚒️
----
-* Postdoctoral research associate, Department of Genetics, University of Cambridge (2025-Present)
-* Postdoctoral research associate, Department of Biology, University of Oxford (2025)
+You can view my complete CV [here](https://jewh.github.io/files/CV.pdf).
 
 Education 🎓
 ---
 
 * DPhil Zoology, University of Oxford (2020-2025)
 * BSc (Hons) Biology and Mathematics, University of St Andrews (2016-2020)
+
+Employment ⚒️
+---
+* Postdoctoral research associate, Department of Genetics, University of Cambridge (2025-Present)
+* Postdoctoral research associate, Department of Biology, University of Oxford (2025)
 
 Training
 ---
@@ -36,7 +38,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-You can view my complete CV [here](https://jewh.github.io/files/CV.pdf).
 
 <!-- Awards & Funding
 ======

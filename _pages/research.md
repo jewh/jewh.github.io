@@ -8,13 +8,13 @@ redirect_from:
   - /research.html
 ---
 
-Living things strike a balance between robustness and flexibility. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are deleterious. Simultaneously, for life to evolve and adapt to its changing environment, it must be capable of changing in response to mutation or environmental change. I find the balance between these seemingly contradictory things very beautiful. I research how organisms achieve this balance, and how it arises in evolution.
+Living things strike a balance between robustness and flexibility. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are damaging. Paradoxically, for life to evolve and adapt to its changing environment, it must be capable of changing in response to mutation or environmental change. I find the balance organisms achieve between these seemingly contradictory things very beautiful. I research how organisms achieve this balance, and how it arises in evolution.
 
 Embryos and Mathematics
 ---
-Embryos, besides being interesting in their own right, exhibit all of the above properties, and hold an important place within evolutionary biology. Embryos translate genetic and environmental information into the structures and colours that make an organism's body. The way in which the embryo does this has to buffer against noise, but also be capable of changing in evolution to make new structures and patterns.
+Embryos, besides being interesting in their own right, hold an important place within evolutionary biology. Embryos translate genetic and environmental information into the structures and colours that make an organism's body. The way in which the embryo does this has to buffer against noise, but also be capable of changing in evolution to make new structures and patterns.
 
-It is largely unknown how this balance is achieved, but it is thought to be an emergent property of the complex dynamics of development. In my research I use a combination of mathematics and experiments to understand these dynamics.
+It is largely unknown how this balance is achieved, but it is thought to emerge from the complex dynamics of development. In my research I use a combination of mathematics and experiments to understand these dynamics.
 
 Flies and Cichlids 🪰🐠
 ---

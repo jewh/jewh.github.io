@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: https://jewh.github.io/images/website_banner.png
+  # image: https://jewh.github.io/images/website_banner.png
 ---
 
-Hello and welcome to my website. I am a developmental biologist currently working at the University of Cambridge. Here you will be able to find information about my research and my personal interests.
+Hello and welcome to my website. I am a developmental biologist working at the University of Cambridge. Here you will find information about my research and my personal interests.
 
 You can contact me about anything via email at jh2046[at]cam.ac.uk.
+
+![Some moths I photographed in South Africa.](https://jewh.github.io/images/website_banner.png)
 
 <!-- A data-driven personal website
 ======
