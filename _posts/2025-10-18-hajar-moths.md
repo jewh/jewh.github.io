@@ -170,13 +170,27 @@ The water source for this camp is quite a memorable one, being about 100m along 
 The cave has quite a broad and spacious entrance. However upon proceeding deeper one climbs up a slope at the back of entrance, where the cave narrows suddenly. Here the air rapidly becomes thick and humid as one climbs the slope. From here the way is obvious, following a narrow but not uncomfortable passage (average width of ~1m) deeper into the rock. When close to the cave pool, the cave forks in two, though both passages lead to the pool. In any case, there was a steady stream of plastic litter and other evidence of human activity for us to follow.
 
 ![View inside Sab Al Nar](https://jewh.github.io/images/2025oman/P2150238.JPG)*Sab Al Nar cave, near the pool junction.*
-![Sab Al Nar cave pool](https://jewh.github.io/images/2025oman/P2150242.JPG)*The pool in Sab Al Nar cave.*
+![Sab Al Nar cave pool](https://jewh.github.io/images/2025oman/P2150242.JPG)*The pool in Sab Al Nar cave. Delicious!*
 
 Upon arrival at the pool we each took turns filling our water bottles, using the junction to switch places as there is only really room for one person at the pool. Having successfully not disturbed any of the fine silt settled at the bottom of the pool, we were treated to beautifully clear water, which we would later find (after filtering and treatment) has a distinct popcorn or almost eggy flavour. I presume some sulfur compound in the water?
 
-That night we took advan
+That night we took advantage of our sheltered corrals for some mothing. Using a large pale rock to identify attracted moths, I hung the LepiLED from my corral wall and waited to see what would come to visit. We didn't have long to wait, and almost instantly moths began to arrive. Here we had our familiar friend **_Chiasmia latimarginaria_**, the handsome middle eastern gelechiid **_Deltophora fasciella_**, and a quite striking geometrid that I'm still yet to identify. After a couple of hours with the light we called it quits and went to bed. As I was wriggling into my bivvy bag, and **Pallid scops owl** began singing in the trees nearby.
 
+![Deltophora fasciella](https://jewh.github.io/images/2025oman/moths/Jebel shams/P2160294.JPG)*Deltophora fasciella.*
+![Geometridae sp.](https://jewh.github.io/images/2025oman/moths/Jebel shams/P2160284.JPG)*Geometridae sp.*
 
+The following day our plan was to walk back downhill to Misfah al Abriyyn via a route that John billed as a donkey track, passable in only a few hours. The path began smoothly, and as we made our way down the largely flat sheet of rock that comprises the southward Hajar, we reached a small hut at the head of a green wadi. John's path follows this wadi, which connects to another larger valley, eventually leading back to Misfah. Upon descending down into the wadi our progress quickly deteriorated, and we were back to the slow, boulder-hopping wadi travel that we'd become accustomed to.
+
+![The green wadi](https://jewh.github.io/images/2025oman/P2160304.JPG)*The green wadi, looking back up to Jebel Shams.*
+
+At a certain point the boulders become too large to be passable, and the route scrambles back up the cliff on the right bank of the wadi, where one proceeds via a long route of ledges. This route was absolutely spectacular and an extremely memorable walk. The route is quite exposed, with a bit of a drop to your side, and there are several points where this ledge is overun by a slope of fine scree, that requires care to traverse.
+
+![The cliff path](https://jewh.github.io/images/2025oman/P2160320.JPG)*The cliff ledge route. Note the man-made drystone 'bridge' that Frederic is crossing.*
+
+About midway along this route there is a water source, where a plastic barrel is positioned underneath a cliff drip. The water is clear and good to drink, but care needs to be taken when filling a bottle not to collect all the drowned invertebrates floating on the surface. Upon inspecting this debris, I saw three small moths floating dead in the water. They looked tantalisingly like _Argyresthia_, but I suspect they are actually **_Zelleria_**. I've attached a picture of one below, please let me know if you know the species.
+
+![Zelleria sp.](https://jewh.github.io/images/2025oman/moths/P2160315.JPG)
+*_Zelleria_ sp.?*
 
 
 
