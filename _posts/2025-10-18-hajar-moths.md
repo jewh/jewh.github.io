@@ -221,9 +221,6 @@ Happily the LepiLED had brought in the goods, and we returned to a nice mix of m
 ![Ocnerogyia layla](https://jewh.github.io/images/2025oman/moths/Al Marratt/P2170400.JPG)*Ocnerogyia layla. Thanks to user lymantriman on iNaturalist for ID*.
 ![Scythris](https://jewh.github.io/images/2025oman/moths/Al Marratt/P2170420.JPG)*Scythris pollicella?*.
 
-
-
-
 _Leaving the blog entry here for a bit, will update more later._
 
 List of birds seen in the Hajar Mountains, Feb 2025
