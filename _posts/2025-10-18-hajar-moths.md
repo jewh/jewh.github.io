@@ -155,7 +155,7 @@ Here Frederic picked out a campsite with an excellent view, and conveniently clo
 
 ![Poo with a view](https://jewh.github.io/images/2025oman/P2140148.JPG)*View from our campsite on the ridge, looking north-west.*
 
-The following morning we had an epic view for our morning ablutions. Here we had a gentle-ish day planned climbing along the ridge towards Jebel Shams, following the well-marked ultramarathon route. The route dipped down the northern, seaward side of the ridge, taking us into a pleasingly verdant scrub-forest dominated by Pashtun juniper. Overhead another **Bonelli's Eagle** patrolled the ridge, and **White-spectacled Bulbuls** flitted amongst the trees, calling. The walk was pleasant but largely uneventful, besides admiring the junipers. 
+The following morning we had an epic view for our morning ablutions. Here we had a gentle-ish day planned climbing along the ridge towards Jebel Shams, following the well-marked ultramarathon route. The route dipped down the northern, seaward side of the ridge, taking us into a pleasingly verdant scrub-forest dominated by Pashtun juniper. Overhead another **Bonelli's Eagle** patrolled the ridge, and **White-spectacled Bulbuls** flitted amongst the trees, calling. It was here that we met another hiker, an Omani woman from Muscat who was hiking alone, and spoke fluent English. She was first hiker I'd come across in the Hajar, and as it turns out, she was the only one we would meet. It was from her that we realised we'd taken a wrong turn and needed to double back to find the turn onto the ridge. Other than this, the day's walk was largely uneventful, with plenty of time spent admiring the junipers. 
 
 ![Omani woodland](https://jewh.github.io/images/2025oman/P2150221.JPG)*The short woodland of the Hajar.*
 
@@ -210,7 +210,7 @@ The trip was now coming to an end and we had to make our way back to Muscat. Unf
 
 To our amazement, we found a driver willing to take us. Initially doubtful of the suitability of his Toyota corolla for the mountain road, we were reassured when he drove us to his home, and told us to home over into his landcruiser. He then went inside the house, and came back with a couple kgs of dates (again khalas I think - lovely) and a flask full of cardamom coffee. We had a comfortable drive up to the head of wadi, though I think our driver was a bit stressed by the mountain road and eager to get the job over with.
 
-With again not long til nightfall, we descended down a steep boulderfield to the base of the wadi. Above us stretched some enormous cliffs, which I judged to certainly harbour Omani owls. At the head of the wadi there is a large pool, from which an aflaj drains, feeding to small agricultural terraces slightly further down the wadi. Remarkably, there are fish in this pool, and some sort of caddis fly larva. I'd love to know what these fish are; if I had to guess they were something like **_Garra barreimiae_** (looking like some sort of loach), but I'm sure they have very interesting biology.
+With again not long til nightfall, we descended down a steep boulderfield to the base of the wadi. Above us stretched some enormous cliffs, which look likely to harbour Omani owls. At the head of the wadi there is a large pool, from which an aflaj drains, feeding to small agricultural terraces slightly further down the wadi. Remarrkably, there are fish in this pool, and some sort of caddis fly larva. I'd love to know what these fish are; if I had to guess they were something like **_Garra barreimiae_** (looking like some sort of loach), but I'm sure they have very interesting biology.
 
 ![](https://jewh.github.io/images/2025oman/P2170394.JPG)*Descent into the wadi. The tall owl-ly cliffs rise above us, at the back of the wadi.*
 
@@ -221,7 +221,22 @@ Happily the LepiLED had brought in the goods, and we returned to a nice mix of m
 ![Ocnerogyia layla](https://jewh.github.io/images/2025oman/moths/Al Marratt/P2170400.JPG)*Ocnerogyia layla. Thanks to user lymantriman on iNaturalist for ID*.
 ![Scythris](https://jewh.github.io/images/2025oman/moths/Al Marratt/P2170420.JPG)*Scythris pollicella?*.
 
-_Leaving the blog entry here for a bit, will update more later._
+As the sun rose it was cool in the wadi. The plan for today was to follow the donkey track that joins the small farm in this wadi to Yiqa. After a quick breakfast we struggled to identify the trailhead based on John's GPS track, possibly confounded by GPS signal deep in the wadi. Frederic noted a point on the slope where a donkey had descended the evening before, but there was no obvious path visible and we decided to split up in search of the trail. With hindsight this was a pretty stupid thing to do, as I wasted an hour of our time scaling the sides of the wadi, and it turned out that Frederic's initial guess was correct. It was about 10am by the time we actually set out on our way down to Yiqa, now on an obvious track along a cliff ledge, covered in donkey dung. This experience was fairly typical of our walking experience in the Hajar. If man and beast are constrained in their choice of route (e.g. they have to follow a specific cliff ledge), then the trail is well-worn and obvious. However, as the landscape broadens out, travellers are no longer constrained and can take any route they wish. As a consequence there are big open stretches of boulder field with no clear path and you need to know where you are going. In any case, a combination of John's GPS track and regular piles of donkey dung kept us right, and by lunchtime we had left the wadi and were looking northward, downhill to Yiqa.
+
+![Wadi view](https://jewh.github.io/images/2025oman/P2180435.JPG)*View looking west. Down below you can see the deep wadi gorge, and part of the terraces constructed here for farming.*
+
+The route was both beautiful and intimidating. On many occasions we had to traverse fine scree slopes that terminate in a deep gorge at the base of the wadi. If you slipped and slid down the slope you might have quite a hard time getting out again. It was also devoid of any bird life. Indeed the only evidence of animal life for much of the day was a sandy-biege viper seen briefly by Frederic and Lukas (I only saw the tail of it as it slid into a burrow). No idea of the species, though the **Persian Horned Viper _Pseudocerastes persicus_** looks a decent visual match. 
+
+![View towards Yiqa](https://jewh.github.io/images/2025oman/P2180441.JPG)*Start of the descent towards Yiqa. Where the landscape opens up, trailfinding takes knowledge and skill.*
+
+With Yiqa now in our sights (though still distant), we began plodding steadily downhill. Part of the way down we came to evidence of human settlement, namely a full water reservoir. Ten minutes later we found the owner, a chap sat outside his house, watching his chickens peck at the gravel. After failing to 
+
+Summary
+---
+
+
+
+
 
 List of birds seen in the Hajar Mountains, Feb 2025
 ---
