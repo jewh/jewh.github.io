@@ -10,6 +10,6 @@ citation: 'Hammond, J.E. and Smith, V.A. (2025). &quot;Bayesian networks for net
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](https://royalsocietypublishing.org/doi/reader/10.1098/rsif.2024.0893)
+<!-- [Download paper here](https://royalsocietypublishing.org/doi/reader/10.1098/rsif.2024.0893) -->
 
 <!-- Recommended citation: Hammond, J.E., Bucklow, C.V., and Verd, B. (2025). &quot;Evolvability in Vertebrate Segmentation&quot; <i>Seminars in Cell & Developmental Biology</i> 174, 103630. -->
