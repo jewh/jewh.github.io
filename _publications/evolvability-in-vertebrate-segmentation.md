@@ -10,6 +10,6 @@ citation: 'Hammond, J.E., Bucklow, C.V., and Verd, B. (2025). &quot;Evolvability
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](https://ecoevorxiv.org/repository/object/8740/download/16292/)
+<!-- [Download paper here](https://ecoevorxiv.org/repository/object/8740/download/16292/) -->
 
 <!-- Recommended citation: Hammond, J.E., Bucklow, C.V., and Verd, B. (2025). &quot;Evolvability in Vertebrate Segmentation&quot; <i>Seminars in Cell & Developmental Biology</i> 174, 103630. -->

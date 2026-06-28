@@ -10,6 +10,6 @@ citation: 'Hammond, J.E., Baker, R.E., and Verd, B. (2025). &quot;Modularity of 
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](https://elifesciences.org/articles/106316#downloads)
+<!-- [Download paper here](https://elifesciences.org/articles/106316#downloads) -->
 
 <!-- Recommended citation: Hammond, J.E., Baker, R.E., and Verd, B. (2025). &quot;Modularity of the segmentation clock and morphogenesis&quot; <i>eLife</i> 14, RP106316. -->
