@@ -8,8 +8,6 @@ _site/
 # _pages/
 # images/
 
-*.md
-
 # Ignore the directory for local files during development
 local/
 
