@@ -19,7 +19,8 @@ Education 🎓
 
 Employment ⚒️
 ---
-* Postdoctoral research associate, Department of Genetics, University of Cambridge (2025-Present)
+* Leverhulme Early Career Fellow, Department of Genetics, University of Cambridge (2026-Present)
+* Postdoctoral research associate, Department of Genetics, University of Cambridge (2025-2026)
 * Postdoctoral research associate, Department of Biology, University of Oxford (2025)
 
 Training

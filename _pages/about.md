@@ -13,7 +13,7 @@ header:
 Hello! I am a developmental biologist working at the University of Cambridge. On this website you will find information about my research and my personal interests.
 
 # Research
-
+---
 Living things strike a balance between robustness and flexibility. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are damaging. Paradoxically, for life to evolve and adapt to its changing environment, it must be capable of changing in response to mutation or environmental change. I find the balance organisms achieve between these seemingly contradictory things very beautiful. I research how organisms achieve this balance, and how it arises in evolution.
 
 Embryos and Mathematics
@@ -31,7 +31,7 @@ As of October 2025 I am working in Dr Erik Clark's group in the Department of Ge
 Before moving to Cambridge I was a DPhil student at the University of Oxford studying the embryonic development of the Lake Malawi cichlids _Astatotilapia calliptera_ and _Rhamphochromis_ sp. 'chilingali', supervised by Dr Berta Verd and Prof Ruth Baker. Here I used experiments in these fish and modelling their development to understand why vertebral number is capable of evolving rapidly.
 
 # Personal
-
+---
 I'm generally very interested in moths and natural history more generally. I might over time devote parts of this website to that, though for now it will be confined to my blog.
 
 ![Some moths I photographed in South Africa.](https://jewh.github.io/images/website_banner.png)
