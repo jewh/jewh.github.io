@@ -14,9 +14,9 @@ Embryos and Mathematics
 ---
 Embryos, besides being interesting in their own right, hold an important place within evolutionary biology. Embryos translate genetic and environmental information into the structures and colours that make an organism's body. The way in which the embryo does this has to buffer against noise, but also be capable of changing in evolution to make new structures and patterns.
 
-![A fly embryo stained for different genes.](https://jewh.github.io/images/research/gap gene overlay.png)*A ~2 hr old embryo of the fruit fly Drosophila melanogaster, stained using [HCR Gold](https://www.molecularinstruments.com/hcr-gold-rnafish) to visualise the mRNAs of nine different genes. Each different gene is given a different colour. At this stage, genes are cross-regulating one another's expression, creating a complex pattern that lays the blueprint for the future body of the fly.*
-
 It is largely unknown how this balance is achieved, but it is thought to emerge from the complex dynamics of development. In my research I use a combination of mathematics and experiments to understand these dynamics.
+
+![A fly embryo stained for different genes.](https://jewh.github.io/images/research/gap gene overlay.png)*A ~2 hr old embryo of the fruit fly Drosophila melanogaster, stained using [HCR Gold](https://www.molecularinstruments.com/hcr-gold-rnafish) to visualise the mRNAs of nine different genes. Each different gene is given a different colour. At this stage, genes are cross-regulating one another's expression, creating a complex pattern that lays the blueprint for the future body of the fly.*
 
 Flies and Cichlids 🪰🐠
 ---
