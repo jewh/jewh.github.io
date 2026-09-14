@@ -93,9 +93,9 @@ author:
   location         : "Cambridge, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=U_HrlkQAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0001-9603-3410"
-  email            :
+  email            : "jh2046@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -123,7 +123,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  # bluesky          : "@jamesehammond.bsky.social"
 
 
 # Reading Files
