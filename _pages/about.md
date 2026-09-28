@@ -13,7 +13,7 @@ header:
 # About me
 ---
 
-I am a developmental biologist working at the University of Cambridge. I am currently a Leverhulme Trust Early Career Fellow in Erik Clark's group, and before that I was a DPhil student with Berta Verd and Ruth Baker at Oxford University. I trained in both Biology and Mathematics at the University of St Andrews. 
+I am a Leverhulme Trust Early Career Fellow in Erik Clark's group at the University of Cambridge. Before that, I was a DPhil student with Berta Verd and Ruth Baker at the University of Oxford. I have a background in both biology and mathematics, and am very interested in natural history and the diversity of life.
 
 # Research
 ---
