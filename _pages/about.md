@@ -10,7 +10,10 @@ header:
   # image: https://jewh.github.io/images/website_banner.png
 ---
 
-Hello! I am a developmental biologist working at the University of Cambridge. On this website you will find information about my research and my personal interests.
+# About me
+---
+
+I am a developmental biologist working at the University of Cambridge. I am currently a Leverhulme Trust Early Career Fellow in Erik Clark's group, and before that I was a DPhil student with Berta Verd and Ruth Baker at Oxford University. I trained in both Biology and Mathematics at the University of St Andrews. 
 
 # Research
 ---
