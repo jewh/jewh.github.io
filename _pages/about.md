@@ -15,6 +15,8 @@ header:
 
 I am a Leverhulme Trust Early Career Fellow in Erik Clark's group at the University of Cambridge. Before that, I was a DPhil student with Berta Verd and Ruth Baker at the University of Oxford. I have a background in both biology and mathematics, and am very interested in natural history and the diversity of life.
 
+![Some moths I photographed in South Africa.](https://jewh.github.io/images/website_banner.png)
+
 # Research
 ---
 Living things strike a balance between robustness and flexibility. To survive, living systems have to be robust against perturbations from their environment, and against mutation, as most mutations are damaging. Paradoxically, for life to evolve and adapt to its changing environment, it must be capable of changing in response to mutation or environmental change. I find the balance organisms achieve between these seemingly contradictory things very beautiful. I research how organisms achieve this balance, and how it arises in evolution.
@@ -38,8 +40,6 @@ Before moving to Cambridge I was a DPhil student at the University of Oxford stu
 # Personal
 ---
 I'm generally very interested in moths and natural history more generally. I might over time devote parts of this website to that, though for now it will be confined to my blog.
-
-![Some moths I photographed in South Africa.](https://jewh.github.io/images/website_banner.png)
 
 <!-- A data-driven personal website
 ======
