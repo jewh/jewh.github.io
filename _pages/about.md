@@ -30,7 +30,7 @@ As of October 2025 I am working in Dr Erik Clark's group in the Department of Ge
 
 Before moving to Cambridge I was a DPhil student at the University of Oxford studying the embryonic development of the Lake Malawi cichlids _Astatotilapia calliptera_ and _Rhamphochromis_ sp. 'chilingali', supervised by Dr Berta Verd and Prof Ruth Baker. Here I used experiments in these fish and modelling their development to understand why vertebral number is capable of evolving rapidly.
 
-![A fly embryo stained for different genes.](https://jewh.github.io/files/tracks.gif)*A computational model of somitogenesis, the embryonic process in which the body is divided into segments*
+![A computational model of somitogenesis, the embryonic process in which the body is divided into segments](https://jewh.github.io/files/cropped_tracks.gif)*A computational model of somitogenesis, the embryonic process in which the body is divided into segments. During my DPhil, I used this model to study how cell movements and patterning co-evolve.*
 
 # Personal
 ---
